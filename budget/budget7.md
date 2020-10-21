@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="styles.css">
 # Pressupost 4 - Compositor i productor
 
 ## 1. Components
