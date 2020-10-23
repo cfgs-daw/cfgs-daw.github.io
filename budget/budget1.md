@@ -1,10 +1,10 @@
+# Pressupost 2. Gamer.
+
 <style>
   img{
     width:50%
   }
 </style>
-
-# Pressupost 2. Gamer.
 
 ## **Configuració de l'ordinador**
 
