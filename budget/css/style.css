@@ -1,0 +1,23 @@
+table{
+    color: rgb(0, 0, 0);
+    width: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    color: rgb(113, 176, 218);
+    text-align: center;
+    letter-spacing: 7px;
+}
+img{
+    width: 20%;
+}
+a{
+    color: rgb(0, 0, 0);
+    transition: all 0.2s;
+}
+a:hover{
+    color: rgb(116, 165, 218);
+    text-decoration: none;
+    transition: all 0.2s;
+    
+}
