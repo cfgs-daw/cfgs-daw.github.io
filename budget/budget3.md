@@ -4,17 +4,15 @@
     body {background-color: #343A52; color: white;}
 </style>
 
-## ***PRESUPUESTO 3.- ORDENADOR BÁSICO***
+<h2 style="font-style: italic; color: #00F8FF;">  <u>PRESUPUESTO 3.- ORDENADOR BÁSICO</u></h2>
+
+
 <h2 style="font-style: italic; color: #5AE398;"> 1. <u>Elección y presupuesto de los elementos</u></h2>
-
-
-
-
 
 
 <h3 style="font-style: italic; color: #63FAEF;"> 1.1. <u>Elementos del ordenador</u></h3>
 
-| IMAGEN  | NOMBRE | PRECIO | 
+| IMAGEN   | NOMBRE | PRECIO | 
 |:---------|:---------:|:---------:|
 |<img src="img/procesador.jpg"  /> | [AMD Ryzen 3 3200G 3.6 GHz ](https://www.pccomponentes.com/amd-ryzen-3-3200g-36-ghz-box) | `99,99€` |
 |<img src="img/placabase.jpg" /> | [Asus PRIME B450M-A](https://www.pccomponentes.com/asus-prime-b450m-a) | `73,99€` | 
