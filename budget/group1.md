@@ -1,5 +1,3 @@
-# **Pressupost 2. Gamer.**
-
 <style>
   img{
     width:50%
@@ -55,4 +53,3 @@
   <br/>
   <br/>
   **Preus agafats a data 22/10/2020**
-
