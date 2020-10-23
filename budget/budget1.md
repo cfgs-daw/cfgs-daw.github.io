@@ -4,6 +4,8 @@
   }
 </style>
 
+# Pressupost 2. Gamer.
+
 ## **Configuració de l'ordinador**
 
 | Imatge |  | Nom | Preu | | Característiques | | Motiu elecció
