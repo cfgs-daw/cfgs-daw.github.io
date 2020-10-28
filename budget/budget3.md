@@ -1,8 +1,9 @@
 
 <style>
     img {width: 50%;}
+    .container {font-weight: 400;background-color: #343A52!important; color: #ffffff!important;}
 </style>
-<body style="background-color: #343A52; color: #ffffff;">
+<body>
 
 <h1 style="font-style: italic; color: #00F8FF;">  <u>PRESUPUESTO 3.- ORDENADOR BÁSICO</u></h1>
 
