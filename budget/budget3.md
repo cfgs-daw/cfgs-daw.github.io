@@ -1,9 +1,9 @@
 
 <style>
     img {width: 50%;}
-    body div div [class="content p3 p-sm-5"] {
+    /*body div div [class="content p3 p-sm-5"] {
         background-color: #343A52!important; color: #ffffff!important;
-    }
+    }*/
 </style>
 <body>
 
