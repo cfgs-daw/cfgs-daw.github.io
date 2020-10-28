@@ -1,7 +1,7 @@
 
 <style>
     img {width: 50%;}
-    body {background-color: #343A52; color: white;}
+    html {background-color: #343A52; color: white;}
 </style>
 
 <h1 style="font-style: italic; color: #00F8FF;">  <u>PRESUPUESTO 3.- ORDENADOR BÁSICO</u></h1>
