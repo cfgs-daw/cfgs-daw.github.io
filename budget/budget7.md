@@ -20,7 +20,9 @@
 | <img src="img/tarjetes.jpg"> | [Tacens Anima ACR1](https://www.pccomponentes.com/tacens-anima-acr1-lector-de-tarjetas) | 4,25€ | 6 ports de tarjetes per a més de 68 tipus de targetes| Necessaria per si te algún tipus de camara o altres aparells que guarden les dades en targetes SD
 | <img src="img/dvd.jpg"> | [Asus DRW-24D5MT](https://www.pccomponentes.com/asus-drw-24d5mt-grabadora-dvd-24x) | 16,65€ | Velocitat d'escriptura DVD 24X| Per a poder grabar/reproduir qualsevol tipus de CD/DVD
 | | **Preu total:** | **901.60€** |
-</br></br></br></br>
+
+
+</br></br></br>
 
 ## 2. Perifèrics
 </br>
