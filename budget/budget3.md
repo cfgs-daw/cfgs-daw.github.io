@@ -4,12 +4,16 @@
     div.mybudget {
         background-color: #343A52!important;
         color: #ffffff!important;
+        margin: 20px;
+    }
+    h1 {
+        font-style: italic;
+        color: #00F8FF;
     }
 </style>
 <div class="mybudget">
 
-<h1 style="font-style: italic; color: #00F8FF;">  <u>PRESUPUESTO 3.- ORDENADOR BÁSICO</u></h1>
-
+# PRESUPUESTO 3.- ORDENADOR BÁSICO
 
 <h2 style="font-style: italic; color: #5AE398;"> 1. <u>Elección y presupuesto de los elementos</u></h2>
 
