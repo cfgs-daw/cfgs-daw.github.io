@@ -15,7 +15,7 @@
         font-style: italic;
         color: #00F8FF;
     }
-    table {
+    table, tr, td {
         background-color: #343A52!important;
         color: #ffffff!important;
     }
