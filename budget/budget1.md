@@ -6,20 +6,20 @@
 
 |                             Imatge                                               |       Component            |     Preu       |
 |:................................................................................:|:..........................:|:..............:|
-|!{Placa base}(C:\Users\David\Desktop\Pressupost\cfgs-daw.github.io\budget) | Placa base Gigabyte B365M H  |  65.99€ | 
-|!{Processador}(https://thumb.pccomponentes.com/w-530-530/articles/25/251214/1.jpg) | Processador Intel Core i5-9400F 2.9GHz | 129.91€ | 
-|!{Memoria RAM}(https://thumb.pccomponentes.com/w-530-530/articles/23/234076/hyperx-fury-ddr4-1-front.jpg) |2 X Memòries RAM Kingston HyperX Fury Black 8GB DDR42666Mhz PC-21300 CL16 | 74€ |
-|!{Disc Dur}(https://thumb.pccomponentes.com/w-530-530/articles/14/149210/evo860-1.jpg) | Disc dur SSD Samsung 860 EVO Basic SSD 500GB SATA3 |  76€ | 
-|!{Torre}(https://thumb.pccomponentes.com/w-530-530/articles/10/101871/owlotech-evo-usb-3-0-1.jpg) | Torre Owlotech EVO USB 3.0 500W  |  34.99€ | 
-|!{Disquetera}(https://thumb.pccomponentes.com/w-530-530/articles/8/85838/001.jpg) | Disquetera Asus DRW-24D5MT Grabadora DVD 24X Negra | 18.49€ | 
+|!{Placa base}(C:\Users\David\Desktop\Pressupost\cfgs-daw.github.io\budge\placa_base.jpg) | Placa base Gigabyte B365M H  |  65.99€ | 
+|!{Processador}(C:\Users\David\Desktop\Pressupost\cfgs-daw.github.io\budget) | Processador Intel Core i5-9400F 2.9GHz | 129.91€ | 
+|!{Memoria RAM}(C:\Users\David\Desktop\Pressupost\cfgs-daw.github.io\budget) |2 X Memòries RAM Kingston HyperX Fury Black 8GB DDR42666Mhz PC-21300 CL16 | 74€ |
+|!{Disc Dur}(C:\Users\David\Desktop\Pressupost\cfgs-daw.github.io\budget | Disc dur SSD Samsung 860 EVO Basic SSD 500GB SATA3 |  76€ | 
+|!{Torre}(C:\Users\David\Desktop\Pressupost\cfgs-daw.github.io\budget) | Torre Owlotech EVO USB 3.0 500W  |  34.99€ | 
+|!{Disquetera}(hC:\Users\David\Desktop\Pressupost\cfgs-daw.github.io\budget) | Disquetera Asus DRW-24D5MT Grabadora DVD 24X Negra | 18.49€ | 
 
 ### 1.2.Elements de l'ordinador
 
 | Imatge | Periferic | Preu |
 |:......:|:.........:|:....:|
-|!{Monitor}(https://thumb.pccomponentes.com/w-530-530/articles/23/235922/1.jpg) | 2 x Monitor Viewsonic VA2261-2 21.5" LED FullHD | 159,98€ | 
-|!{Teclat i Ratoli}(https://thumb.pccomponentes.com/w-530-530/articles/4/42948/5099206020580-2.jpg) | Teclat i ratolí Logitech Desktop MK120 | 16.99€ | 
-|!{Mac}(https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mac-mini-hero-201810?wid=904&hei=840&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1558559818403) |Ordinador de producció Mac Mac mini | 929€ |
+|!{Monitor}(C:\Users\David\Desktop\Pressupost\cfgs-daw.github.io\budget) | 2 x Monitor Viewsonic VA2261-2 21.5" LED FullHD | 159,98€ | 
+|!{Teclat i Ratoli}(C:\Users\David\Desktop\Pressupost\cfgs-daw.github.io\budget) | Teclat i ratolí Logitech Desktop MK120 | 16.99€ | 
+|!{Mac}(C:\Users\David\Desktop\Pressupost\cfgs-daw.github.io\budget) |Ordinador de producció Mac Mac mini | 929€ |
 
 ## 2.Descripció de les característiques dels elements
 
