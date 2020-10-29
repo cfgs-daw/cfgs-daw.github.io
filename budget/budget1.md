@@ -1,33 +1,3 @@
-<style>
-    img [alt="Placa base"] {
-        height: 200px;
-    }
-    img [alt="Processador"] {
-        height: 200px;
-    }
-    img [alt="Memoria RAM"] {
-        height: 200px;
-    }
-    img [alt="Disc Dur"] {
-        height: 200px;
-    }
-    img [alt="Torre"] {
-        height: 200px;
-    }
-    img [alt="Disquetera"] {
-        height: 200px;
-    }
-    img [alt="Monitor"] {
-        height: 200px;
-    }
-    img [alt="Teclat i Ratoli"] {
-        height: 200px;
-    }
-    img [alt="Mac"] {
-        height: 200px;
-    }
-</style>
-
 # Pressupost per un ordinador per a desenvolupador web i aplicacions per a mòbils
 
 ## 1.Tria i pressupost dels elements
