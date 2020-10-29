@@ -1,11 +1,12 @@
 
 <style>
     img {width: 50%;}
-    /*body div div [class="content p3 p-sm-5"] {
-        background-color: #343A52!important; color: #ffffff!important;
-    }*/
+    div.mybudget {
+        background-color: #343A52!important;
+        color: #ffffff!important;
+    }
 </style>
-<body>
+<div class="mybudget">
 
 <h1 style="font-style: italic; color: #00F8FF;">  <u>PRESUPUESTO 3.- ORDENADOR BÁSICO</u></h1>
 
@@ -117,4 +118,4 @@ Asi que de procesador hemos escogido un ryzen 3 3200G porque como he dicho anter
 
   <u><p style="font-weight: bold;text-align: right;  font-style: italic; color: #67FD72;">Precio obtenido el dia 21/10/2020</p></u>
   <u><p style="text-align: right;"><a href="https://www.pccomponentes.com/configurador/Ce002bC0B" style="font-weight: bold;  font-style: italic; color: #67FD72;">PcComponentes</a></p></u>
-</body>
+</div>
