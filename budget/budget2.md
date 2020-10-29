@@ -8,7 +8,7 @@
 
 
 | Imatge | Nom  | Quantitat | Preu   |
-| ------- | ------- |:-------:|:-------:|
+|--------|---------|:-------:|:-------:|
 | ![Intel Core I7](img/i7.jpg)| [Intel Core I7-9700F](https://www.pccomponentes.com/intel-core-i7-9700f-3ghz) | 1 |259,90€ |
 | ![Gygabyte](img/z390.jpg )| [Gigabyte Z390 Gaming X](https://www.pccomponentes.com/gigabyte-z390-gaming-x) | 1 | 132,89€ |
 | ![Kingston](img/ram_05.jpg )| [Kingston HyperX Fury Black 2666Mhz 16GB 2X8](https://www.pccomponentes.com/kingston-hyperx-fury-black-16gb-ddr4-2666mhz-pc-21300-2x8gb-cl16) | 1 | 70€ |
