@@ -4,7 +4,7 @@
 
 # Pressupost PC Disseny 2D
 
-
+<br><br><br>
 
 
 | Imatge | Nom  | Quantitat | Preu   |
@@ -22,7 +22,7 @@
 
 <br><br><br>
 
-## Periferics
+## Perifèrics
 
 | Imatge | Nom | Quantiat | Preu|
 | ------ |----|:--------:|:---:|
@@ -45,7 +45,7 @@
 <br>
 
 ### **Intel Core I79700F:** <br>
-* **Procesador**
+* **Processador**
   * Familia de procesador: 9th gen Intel® Core™ i7
   * Frecuencia del procesador: 3 GHz
   * Número de núcleos de procesador: 8
@@ -223,9 +223,9 @@
 <br><br>
 
 ### **Descripció del pressupost**
-<p>El processador em escollit aquet ja que la gama F es mes barat al tenir el chip gràfic i podem presindir d'aquest chip ja que fiquem una tarjeta gràfica dedicada.</p>
-<p>Em escollit dos moduls de RAM de 8GB cada un ja que així obtindrem més rendiment amb la tecnologia dual channel
-<p>Em escollit refrigeració liquida per tenir el ordenador a baixes temperatures, sobretot en els moment de renderització
-La tarjeta gràfica que em escollit la RTX 2060 per la seva potència i que en el dia que vam realitzar el presupost estava revaixada de preu. Principalment haviem escollit una GTX 1660 però al veure la oferta de la RTX 2060 per la poca diferència de preu i estan dins del pressupost establert em decidit agafar la RTX 2060
-De monitors em escollit simplement un de 27 polzades amb resolució full HD. Només em escollit un ja que tenim una tableta gràfica que també fa de pantalla.
-<p>De sistema operatiu em elegit Windows 10 ja que pels programes de Adobe hi ha millor compatibilitat.</p>
+<p>El processador que hem escollit ha sigut aquet ja que la gama F es més barat, perquè al tenir el chip gràfic podem prescindir d'aquest chip ja que fiquem una tarjeta gràfica dedicada.</p>
+<p>Hem escollit dos moduls de RAM de 8GB cada un ja que així obtindrem més rendiment amb la tecnologia dual channel.
+<p>Hem escollit refrigeració liquida per tenir l'ordinador a baixes temperatures, sobretot als moment de renderització.</p>
+<p>La tarjeta gràfica que hem escollit la RTX 2060 per la seva potència i el dia que vam realitzar el pressupost estava rebaixada de preu. Principalment haviem escollit una GTX 1660 però al veure la oferta de la RTX 2060 per la petita diferència de preu i estant dins del pressupost establert hem decidit agafar la RTX 2060.
+<p>De monitors hem escollit simplement un de 27 polzades amb resolució full HD. Només hem escollit un ja que tenim una tableta gràfica que també fa de pantalla.</p>
+<p>De sistema operatiu hem elegit Windows 10 ja que pels programes d'Adobe hi ha millor compatibilitat.</p>

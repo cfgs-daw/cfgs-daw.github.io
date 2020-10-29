@@ -21,3 +21,20 @@ a:hover{
     transition: all 0.2s;
     
 }
+tbody tr:nth-child(odd) {
+    background-color: #f4fcff;
+  }
+  
+  tbody tr:nth-child(even) {
+    background-color: #b5e0f1;
+  }
+  
+  tbody tr {
+    background-image: url(noise.png);
+  }
+  
+  table tr th {
+    background-color: #008bdb;
+    color:white;
+    letter-spacing: 5px;
+  }
