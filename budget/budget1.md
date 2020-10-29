@@ -5,21 +5,21 @@
 ### 1.1.Elements de l'ordinador
 
 |                             Imatge                                               |       Component            |     Preu       |
-|:................................................................................:|:..........................:|:..............:|
-|!{Placa base}(C:\Users\David\Desktop\Pressupost\cfgs-daw.github.io\budge\placa_base.jpg) | Placa base Gigabyte B365M H  |  65.99€ | 
-|!{Processador}(C:\Users\David\Desktop\Pressupost\cfgs-daw.github.io\budget) | Processador Intel Core i5-9400F 2.9GHz | 129.91€ | 
-|!{Memoria RAM}(C:\Users\David\Desktop\Pressupost\cfgs-daw.github.io\budget) |2 X Memòries RAM Kingston HyperX Fury Black 8GB DDR42666Mhz PC-21300 CL16 | 74€ |
-|!{Disc Dur}(C:\Users\David\Desktop\Pressupost\cfgs-daw.github.io\budget | Disc dur SSD Samsung 860 EVO Basic SSD 500GB SATA3 |  76€ | 
-|!{Torre}(C:\Users\David\Desktop\Pressupost\cfgs-daw.github.io\budget) | Torre Owlotech EVO USB 3.0 500W  |  34.99€ | 
-|!{Disquetera}(hC:\Users\David\Desktop\Pressupost\cfgs-daw.github.io\budget) | Disquetera Asus DRW-24D5MT Grabadora DVD 24X Negra | 18.49€ | 
+|:--------------------------------------------------------------------------------:|:--------------------------:|:--------------:|
+|![Placa base](placa_base.jpg) | [Placa base Gigabyte B365M H](https://www.pccomponentes.com/gigabyte-b365m-h) |  65.99€ | 
+|![Processador](processador.jpg) | [Processador Intel Core i5-9400F 2.9GHz](https://www.pccomponentes.com/intel-core-i3-9100-36-ghz) | 129.91€ | 
+|![Memoria RAM](eam.jpg) |[2 X Memòries RAM Kingston HyperX Fury Black 8GB DDR42666Mhz PC-21300 CL16](https://www.pccomponentes.com/kingston-hyperx-fury-black-8gb-ddr4-2666mhz-pc-21300-cl16) | 74€ |
+|![Disc Dur](ssd.jpg) | [Disc dur SSD Samsung 860 EVO Basic SSD 500GB SATA3](https://www.pccomponentes.com/samsung-860-evo-basic-ssd-500gb-sata3) |  76€ | 
+|![Torre](torre.jpg) | [Torre Owlotech EVO USB 3.0 500W](https://www.pccomponentes.com/owlotech-evo-usb-30-500w) |  34.99€ | 
+|![Disquetera](disquetera.jpg) | [Disquetera Asus DRW-24D5MT Grabadora DVD 24X Negra](https://www.pccomponentes.com/asus-drw-24d5mt-grabadora-dvd-24x-negra) | 18.49€ | 
 
 ### 1.2.Elements de l'ordinador
 
-| Imatge | Periferic | Preu |
-|:......:|:.........:|:....:|
-|!{Monitor}(C:\Users\David\Desktop\Pressupost\cfgs-daw.github.io\budget) | 2 x Monitor Viewsonic VA2261-2 21.5" LED FullHD | 159,98€ | 
-|!{Teclat i Ratoli}(C:\Users\David\Desktop\Pressupost\cfgs-daw.github.io\budget) | Teclat i ratolí Logitech Desktop MK120 | 16.99€ | 
-|!{Mac}(C:\Users\David\Desktop\Pressupost\cfgs-daw.github.io\budget) |Ordinador de producció Mac Mac mini | 929€ |
+|           Imatge              |                                  Periferic                                                     |  Preu    |
+|:-----------------------------:|:----------------------------------------------------------------------------------------------:|:---:|
+|![Monitor](monitor.jpg) | [2 x Monitor Viewsonic VA2261-2 21.5" LED FullHD](https://www.pccomponentes.com/viewsonic-va2261-2-215-led-fullhd) | 159,98€ | 
+|![Teclat i Ratoli](teclat.jpg) | [Teclat i ratolí Logitech Desktop MK120](https://www.pccomponentes.com/logitech-desktop-mk120) | 16.99€ | 
+|![Mac](mac.jpg) | [Ordinador de producció Mac Mac mini](https://www.apple.com/es/shop/buy-mac/mac-mini) | 929€ |
 
 ## 2.Descripció de les característiques dels elements
 
@@ -153,3 +153,15 @@ Ordinador Mac marca Apple, concretamente el model MAC mini
 
 ## 3.Justificació del pressupost
 
+    • Hem triat la placa base Gigabyte B365M H ja que és Micro ATX, compatible amb la torre que hem escollit.
+    • Sobre el procesador, hem optat per un Intel Core i5-9400F de 2.9GHz. Creiem que amb un Intel Core i3 haguès sigut suficient, però degut a que ens sobraven diners del pressupost, hem optat per invertir en un procesador millor, en aquest cas un i5 de 9ª
+    generació.
+    • Hem tirat per 16GB de memòria RAM (separades en dues de 8GB). Creiem que amb 8GB n’haguessim tingut de sobres per execurar els programes plantejats en l’enunciat, però ja que ens sobraven diners del pressupost, hem decidit donar preferència a la memòria a l’hora d’invertir aquests diners.
+    • La nostra el·lecció de disc dur ha estat la SSD Samsung 860 EVO Basic SSD 500GB SATA3. Hem escollit SSD per a poder obrir de la forma més ràpida possible l’ordinador i tots els programes.
+    • L’aspecte que ens ha cridat més l’atenció de la torre ha estat el fet de que ja portés una Font d’alimentació de 500W incorporada, més que suficient per els components que hem escollit, i més tenint en compte que no hem inclòs tarjeta gràfica (i per tant el consum no és tant elevat). Per tant ens hem quedat amb la torre marca Owlotech EVO.
+    • La torre escollida no inclou disquetera, i hem decidit afegir-ne una dins del pressupost (per poder instalar el sistema operatiu). No hem tingut gaires miraments a l’hora d’escollir la disquetera, i ens hem decantat per a més económica, en aquesta cas la
+    Asus DRW-24D5MT Grabadora DVD 24X Negra.
+    • Hem escollit el monitor Viewsonic VA2261-2 21.5" LED FullHD (1920 x 1080) ja que té una resolució superior a la que demanaven els requisits dels programes per desenvolupar. Inicialment vam incloure només un monitor, però veient que pot ser d’útil un segon monitor a l’hora de desenvolupar web i aplicacions per a mòbils.
+    • En el cas del teclat i ratolí, hem seguit el mateix criteri econòmic que amb la disquetera, i hem escollit un pack de teclat+ratolí per fer-ho encara més barat.
+    • A l’hora d’escollir el nostre ordinador de producción Mac, haguéssim pogut escollir ordinadors Mac més potents, però per els programes que hem d’utilitzar, amb el MAC mini de 8GB de memòria, amb processador i3 de 4 nuclis i SSD DE 256GB n’estem més
+    que satisfets.
