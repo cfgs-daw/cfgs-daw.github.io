@@ -1,6 +1,6 @@
 # Pressupost 6. Desenvolupador de videojocs
 
-[<img src="img/logo.png"/>](http://iescaparrella.cat/)
+[<img src="https://reskytnew.s3.amazonaws.com/3939/institut-caparrella-logoweb-180725-med-200325152134.png"/>](http://iescaparrella.cat/)
 
 El següent pressupost correspon a un ordinador amb les exigències que té un desenvolupador de videojocs:
 
