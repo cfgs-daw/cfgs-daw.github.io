@@ -6,7 +6,7 @@
 
 |                             Imatge                                               |       Component            |     Preu       |
 |:................................................................................:|:..........................:|:..............:|
-|!{Placa base}(https://thumb.pccomponentes.com/w-530-530/articles/23/235922/1.jpg) | Placa base Gigabyte B365M H  |  65.99€ | 
+|!{Placa base}(C:\Users\David\Desktop\Pressupost\cfgs-daw.github.io\budget) | Placa base Gigabyte B365M H  |  65.99€ | 
 |!{Processador}(https://thumb.pccomponentes.com/w-530-530/articles/25/251214/1.jpg) | Processador Intel Core i5-9400F 2.9GHz | 129.91€ | 
 |!{Memoria RAM}(https://thumb.pccomponentes.com/w-530-530/articles/23/234076/hyperx-fury-ddr4-1-front.jpg) |2 X Memòries RAM Kingston HyperX Fury Black 8GB DDR42666Mhz PC-21300 CL16 | 74€ |
 |!{Disc Dur}(https://thumb.pccomponentes.com/w-530-530/articles/14/149210/evo860-1.jpg) | Disc dur SSD Samsung 860 EVO Basic SSD 500GB SATA3 |  76€ | 
