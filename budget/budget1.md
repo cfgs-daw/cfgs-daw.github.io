@@ -1,32 +1,32 @@
-<s  tyle>
-    img[alt="Placa base"] {
+<style>
+    img [alt="Placa base"] {
         height: 200px;
     }
-    img[alt="Processador"] {
+    img [alt="Processador"] {
         height: 200px;
     }
-    img[alt="Memoria RAM"] {
+    img [alt="Memoria RAM"] {
         height: 200px;
     }
-    img[alt="Disc Dur"] {
+    img [alt="Disc Dur"] {
         height: 200px;
     }
-    img[alt="Torre"] {
+    img [alt="Torre"] {
         height: 200px;
     }
-    img[alt="Disquetera"] {
+    img [alt="Disquetera"] {
         height: 200px;
     }
-    img[alt="Monitor"] {
+    img [alt="Monitor"] {
         height: 200px;
     }
-    img[alt="Teclat i Ratoli"] {
+    img [alt="Teclat i Ratoli"] {
         height: 200px;
     }
-    img[alt="Mac"] {
+    img [alt="Mac"] {
         height: 200px;
     }
-</ style>
+</style>
 
 # Pressupost per un ordinador per a desenvolupador web i aplicacions per a mòbils
 
@@ -35,7 +35,7 @@
 ### 1.1.Elements de l'ordinador
 
 |                             Imatge                                               |       Component            |     Preu       |
-|..................................................................................|............................|................|
+|:................................................................................:|:..........................:|:..............:|
 |!{Placa base}(https://thumb.pccomponentes.com/w-530-530/articles/23/235922/1.jpg) | Placa base Gigabyte B365M H  |  65.99€ | 
 |!{Processador}(https://thumb.pccomponentes.com/w-530-530/articles/25/251214/1.jpg) | Processador Intel Core i5-9400F 2.9GHz | 129.91€ | 
 |!{Memoria RAM}(https://thumb.pccomponentes.com/w-530-530/articles/23/234076/hyperx-fury-ddr4-1-front.jpg) |2 X Memòries RAM Kingston HyperX Fury Black 8GB DDR42666Mhz PC-21300 CL16 | 74€ |
@@ -46,7 +46,7 @@
 ### 1.2.Elements de l'ordinador
 
 | Imatge | Periferic | Preu |
-|........|...........|......|
+|:......:|:.........:|:....:|
 |!{Monitor}(https://thumb.pccomponentes.com/w-530-530/articles/23/235922/1.jpg) | 2 x Monitor Viewsonic VA2261-2 21.5" LED FullHD | 159,98€ | 
 |!{Teclat i Ratoli}(https://thumb.pccomponentes.com/w-530-530/articles/4/42948/5099206020580-2.jpg) | Teclat i ratolí Logitech Desktop MK120 | 16.99€ | 
 |!{Mac}(https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mac-mini-hero-201810?wid=904&hei=840&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1558559818403) |Ordinador de producció Mac Mac mini | 929€ |
