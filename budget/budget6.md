@@ -2,18 +2,6 @@
 
 [![N|Solid](img/logo.png)](http://iescaparrella.cat/)
 
-
-Procesador AMD Ryzen 7 2700-> Hem elegit aquest processador perquè els programes ens demanaven com a mínim mes de 2 GHz
-Placa Base Gigabyte Aorus X470-> L'elació de la placa ve per la compatibilitat amb el processador i que podem afegir una SSD M.2
-RAM Corsair Vengeance LPX DDR4-> Els programes necessiten molta RAM per a poder-se executar, com per exemple el Blender que recomanen 16 GB
-Disco Duro HDD Seagate BarraCuda 3.5" 2 TB-> Necessitem bastant emmagatzematge per als arxius o programes
-Disco Duro SSD Crucial MX500 M.2-> Per tenir carregats els programes i tinguin una major velocitat d'execusio
-Tarjeta Grafica AMD Radeon Pro WX 7100-> Hem buscat en el certificat d'Hardware del 3D MAX quines tarjetes recomanaben juntament amb els requisits que demanen la resta de programes
-Alimentacion L-Link ATX 750W 80 Plus-> 750 W per suportar la càrrega dels components
-Caja L-Link Avatar USB 3.0-> Per la refrigeració dels components i per les mesures de la placa base
-Disipador Nox Hummer H-212 CPU Cooler-> Per refrescar millor el processador
-Tarjeta de Sonido Creative Sound BlasterX AE-5-> Per millora el so, ja que treballem en videojocs.
-
 El següent pressupost correspon a un ordinador amb les exigències que té un desenvolupador de videojocs:
 
 ## Pressupost dels elements
@@ -664,3 +652,32 @@ Sea uno de los OP que pueden presumir con orgullo de sus plataformas de juego en
 - - 1 salida de cascos de 3,5 mm
 - - 1 entrada de línea / micro de 3,5 mm
 - - 1 panel frontal de audio HD de Intel
+<br/>
+
+## Exercici 3
+### Components
+- Procesador AMD Ryzen 7 2700-> Hem elegit aquest processador perquè els programes ens demanaven com a mínim mes de 2 GHz
+  
+- Placa Base Gigabyte Aorus X470-> L'elació de la placa ve per la compatibilitat amb el processador i que podem afegir una SSD M.2
+
+- RAM Corsair Vengeance LPX DDR4-> Els programes necessiten molta RAM per a poder-se executar, com per exemple el Blender que recomanen 16 GB
+
+- Disco Duro HDD Seagate BarraCuda 3.5" 2 TB-> Necessitem bastant emmagatzematge per als arxius o programes
+
+- Disco Duro SSD Crucial MX500 M.2-> Per tenir carregats els programes i tinguin una major velocitat d'execusio
+
+- Tarjeta Grafica AMD Radeon Pro WX 7100-> Hem buscat en el certificat d'Hardware del 3D MAX quines tarjetes recomanaben juntament amb els requisits que demanen la resta de programes
+
+- Alimentacion L-Link ATX 750W 80 Plus-> 750 W per suportar la càrrega dels components
+
+- Caja L-Link Avatar USB 3.0-> Per la refrigeració dels components i per les mesures de la placa base
+
+- Disipador Nox Hummer H-212 CPU Cooler-> Per refrescar millor el processador
+
+- Tarjeta de Sonido Creative Sound BlasterX AE-5-> Per millora el so, ja que treballem en videojocs.
+### Periferics
+- Pantalla-> Hem seleccionat les pantalles AOC Gaming 27G2U per l'alta freqüència de fotogrames
+- Teclado-> Un teclat mecànic
+- Raton-> Ens demanaven un ratolí de 3 botons i aquest te de 8
+- Tableta Digital->El blender ens demanava a tindre una tauleta
+- Sai-> Un dispositiu amb la suficient potencia per si se'ns va la llum no fe mal ve els components.
