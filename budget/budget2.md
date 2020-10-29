@@ -20,8 +20,6 @@
 | ![EVGA](img/gpu.jpg )| [EVGA GeForce RTX 2060 KO GAMING 6GB GDDR6](https://www.pccomponentes.com/evga-geforce-rtx-2060-ko-gaming-6gb-gddr6) | 1 | 299,90€ |
 | **Total**  |         |        | 1252,54€ |
 
-<br/><br/><br/>
-
 ## Perifèrics
 
 | Imatge | Nom | Quantiat | Preu|
