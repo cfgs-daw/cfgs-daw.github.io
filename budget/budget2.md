@@ -20,7 +20,7 @@
 | ![EVGA](img/gpu.jpg )| [EVGA GeForce RTX 2060 KO GAMING 6GB GDDR6](https://www.pccomponentes.com/evga-geforce-rtx-2060-ko-gaming-6gb-gddr6) | 1 | 299,90€ |
 | **Total**  |         |        | 1252,54€ |
 
-<br><br><br>
+<br/><br/><br/>
 
 ## Perifèrics
 
@@ -31,7 +31,7 @@
 | ![Teclat](img/teclat_05.jpg) | [Corsair K55 Teclado USB RGB](https://www.pccomponentes.com/corsair-k55-teclado-usb-rgb)| 1|59,98€|
 | ![Tableta](img/tableta.jpg) | [Wacom Cintiq Pro 16](https://www.pccomponentes.com/wacom-cintiq-pro-16-uhd-tableta-digitalizadora)| 1|1481,78€|
 | **Total** |        |        |1801,62€|
-<br><br><br>
+<br/><br/><br/>
 
 ## Sistema operatitu
 
@@ -39,10 +39,10 @@
 | ------ |----|:--------:|:---:|
 | ![Windows 10](img/windows10.png) | [Windows 10](https://www.pccomponentes.com/microsoft-windows-10-home-64bits-oem) | 1 | 111,98€|
 | **Total** |        |        |111,98€|
-<br><br><br>
+<br/><br/><br/>
 
 ## Descripció components
-<br>
+<br/>
 
 ### **Intel Core I79700F:** <br>
 * **Processador**
@@ -65,7 +65,7 @@
   * Ancho de banda de memoria soportada por el procesador (max) <br>
 * **Control de energia**
    * Potencia de diseño térmico (TDP): 65 W
-<br><br>
+<br/><br/>
 
 ### **Gigabyte Z390 Gaming X:** 
 
@@ -76,18 +76,18 @@
 * **Memory**
 
    * 4 x DDR4 DIMM sockets supporting up to 64 GB of system memory
-<br><br>
+<br/><br/>
 ### **Kingston HyperX**
 * **Memoria RAM**
   * Frecuencia: 2666MHz
   * Latencia: CL16
-<br><br>
+<br/><br/>
 
 ### **Corsair H100i RGB**
 * **Refrigerción liquida** 
   * Dimensiones: 277mm x 120mm x 27mm
   * Velocidad máxima ventiladores: 2400 RPM
-<br><br>
+<br/><br/>
 
 ### **Samsung 970 EVO Plus 500GB SSD NVMe M.2** <br>
 
@@ -100,14 +100,14 @@
    * Velocidad de lectura: 3500 MB/s
 
    * Velocidad de escritura: 3200 MB/s
-<br><br>
+<br/><br/>
 
 ### **Seagate BarraCuda 3.5" 2TB SATA 3** <br>
 
  * **HDD**
     * Capacidad: 2TB
     * Tamaño del HDD: 3.5"
-<br><br>
+<br/><br/>
 
 ### **NOX Hummer Fusion Cristal Templado USB3.0**
    * **Puertos e Interfaces**
@@ -118,7 +118,7 @@
    * **Diseño**
        *  Factor de forma: Midi-Tower
        *  Formas de factor de tarjeta madre soportadas: ATX,Mini-ITX
-<br><br>
+<br/><br/>
 
 ### **Corsair RM750 750W 80 Plus Gold Full Modular**
 
@@ -151,7 +151,7 @@
       * Corriente máxima de salida (+5V): 20 A
       * Corriente máxima de salida (-12V): 0,3 A
       * Corriente máxima de salida (+5Vsb): 3 A
-<br><br>    
+<br/><br/>    
 
 ### **EVGA GeForce RTX 2060 KO GAMING 6GB GDDR6**
 * **Procesador**
@@ -170,7 +170,7 @@
    * Suministro de energía al sistema mínimo: 500 W
    * Consumo energético: 160 W
    * Conectores de energia suplementario: 1x 8-pin
-<br><br>
+<br/><br/>
 ## Descripció perifèrics
 ### **Monitor Asus VZ279HE-W 27" LED IPS FullHD**
 
@@ -183,20 +183,20 @@
    *  Cantidad de puertos VGA (D-Sub): 1
    *  Puerto DVI: No
    *  Número de puertos HDMI: 2
-  <br><br>
+  <br/><br/>
   
 ### **Logitech G603 Ratón Gaming Inalámbrico 12000DPI**
  * **Especificaciones técnicas**
    * Resolución: 200 ? 12.000 dpi
    * Durabilidad
      * Botones (izquierdo/derecho): 20 millones de clics 
-<br><br>
+<br/><br/>
 
 ### **Corsair K55 Teclado USB RGB**
  * **Teclado** 
    * Interruptor del teclado: Interruptor de membrana
    * Tiempo de respuesta clave (mín.): 1 ms
-<br><br>
+<br/><br/>
 
 ### **Wacom Cintiq Pro 16 UHD Tableta Digitalizadora**
 * Característiques
@@ -220,7 +220,7 @@
   * Nivel de presión: 8192
   * Pluma libre de batería: Si
   * Mangos de goma: Si
-<br><br>
+<br/><br/>
 
 ### **Descripció del pressupost**
 <p>El processador que hem escollit ha sigut aquet ja que la gama F es més barat, perquè al tenir el chip gràfic podem prescindir d'aquest chip ja que fiquem una tarjeta gràfica dedicada.</p>
