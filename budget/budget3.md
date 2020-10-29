@@ -9,10 +9,15 @@
         word-wrap: break-word;
         background-color: #343A52!important;
         color: #ffffff!important;
+        padding: 10px;
     }
     h1 {
         font-style: italic;
         color: #00F8FF;
+    }
+    table {
+        background-color: #343A52!important;
+        color: #ffffff!important;
     }
 </style>
 
