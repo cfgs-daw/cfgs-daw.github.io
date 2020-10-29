@@ -1,4 +1,4 @@
-<style>
+<s  tyle>
     img[alt="Placa base"] {
         height: 200px;
     }
@@ -26,7 +26,7 @@
     img[alt="Mac"] {
         height: 200px;
     }
-</style>
+</ style>
 
 # Pressupost per un ordinador per a desenvolupador web i aplicacions per a mòbils
 
@@ -179,3 +179,7 @@ Ordinador Mac marca Apple, concretamente el model MAC mini
     • 8 GB de memoria DDR4 a 2.666 MHz
     • Intel UHD Graphics 630
     • Almacenamiento SSD PCIe de 256 GB 
+
+
+## 3.Justificació del pressupost
+
