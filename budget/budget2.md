@@ -20,10 +20,12 @@
 | ![EVGA](img/gpu.jpg )| [EVGA GeForce RTX 2060 KO GAMING 6GB GDDR6](https://www.pccomponentes.com/evga-geforce-rtx-2060-ko-gaming-6gb-gddr6) | 1 | 299,90€ |
 | **Total**  |         |        | 1252,54€ |
 
+<br/><br/><br/>
+
 ## Perifèrics
 
 | Imatge | Nom | Quantiat | Preu|
-|--------|----|:--------:|:---:|
+|--------|------|:--------:|:-----:|
 | ![Monitor](img/monitor_05.jpg) | [Monitor Asus VZ279HE-W 27" LED IPS FullHD ](https://www.pccomponentes.com/monitor-asus-vz279he-w-27-led-ips-fullhd) | 1 | 227,58€|
 | ![Ratoli](img/raton.jpg) | [Logitech G203 Prodigy Ratón Gaming 8000DPI](https://www.pccomponentes.com/logitech-g203-prodigy-raton-gaming-8000dpi)| 1| 32,28€|
 | ![Teclat](img/teclat_05.jpg) | [Corsair K55 Teclado USB RGB](https://www.pccomponentes.com/corsair-k55-teclado-usb-rgb)| 1|59,98€|
