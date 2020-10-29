@@ -152,16 +152,21 @@ Ordinador Mac marca Apple, concretamente el model MAC mini
 
 
 ## 3.Justificació del pressupost
-
-    • Hem triat la placa base Gigabyte B365M H ja que és Micro ATX, compatible amb la torre que hem escollit.
-    • Sobre el procesador, hem optat per un Intel Core i5-9400F de 2.9GHz. Creiem que amb un Intel Core i3 haguès sigut suficient, però degut a que ens sobraven diners del pressupost, hem optat per invertir en un procesador millor, en aquest cas un i5 de 9ª
-    generació.
-    • Hem tirat per 16GB de memòria RAM (separades en dues de 8GB). Creiem que amb 8GB n’haguessim tingut de sobres per execurar els programes plantejats en l’enunciat, però ja que ens sobraven diners del pressupost, hem decidit donar preferència a la memòria a l’hora d’invertir aquests diners.
-    • La nostra el·lecció de disc dur ha estat la SSD Samsung 860 EVO Basic SSD 500GB SATA3. Hem escollit SSD per a poder obrir de la forma més ràpida possible l’ordinador i tots els programes.
-    • L’aspecte que ens ha cridat més l’atenció de la torre ha estat el fet de que ja portés una Font d’alimentació de 500W incorporada, més que suficient per els components que hem escollit, i més tenint en compte que no hem inclòs tarjeta gràfica (i per tant el consum no és tant elevat). Per tant ens hem quedat amb la torre marca Owlotech EVO.
-    • La torre escollida no inclou disquetera, i hem decidit afegir-ne una dins del pressupost (per poder instalar el sistema operatiu). No hem tingut gaires miraments a l’hora d’escollir la disquetera, i ens hem decantat per a més económica, en aquesta cas la
-    Asus DRW-24D5MT Grabadora DVD 24X Negra.
-    • Hem escollit el monitor Viewsonic VA2261-2 21.5" LED FullHD (1920 x 1080) ja que té una resolució superior a la que demanaven els requisits dels programes per desenvolupar. Inicialment vam incloure només un monitor, però veient que pot ser d’útil un segon monitor a l’hora de desenvolupar web i aplicacions per a mòbils.
-    • En el cas del teclat i ratolí, hem seguit el mateix criteri econòmic que amb la disquetera, i hem escollit un pack de teclat+ratolí per fer-ho encara més barat.
-    • A l’hora d’escollir el nostre ordinador de producción Mac, haguéssim pogut escollir ordinadors Mac més potents, però per els programes que hem d’utilitzar, amb el MAC mini de 8GB de memòria, amb processador i3 de 4 nuclis i SSD DE 256GB n’estem més
-    que satisfets.
+### 3.1.Placa Base
+ Hem triat la placa base Gigabyte B365M H ja que és Micro ATX, compatible amb la torre que hem escollit.
+### 3.2.Processador
+ Sobre el procesador, hem optat per un Intel Core i5-9400F de 2.9GHz. Creiem que amb un Intel Core i3 haguès sigut suficient, però degut a que ens sobraven diners del pressupost, hem optat per invertir en un procesador millor, en aquest cas un i5 de 9ª generació.
+### 3.3 Memòria RAM
+Hem tirat per 16GB de memòria RAM (separades en dues de 8GB). Creiem que amb 8GB n’haguessim tingut de sobres per execurar els programes plantejats en l’enunciat, però ja que ens sobraven diners del pressupost, hem decidit donar preferència a la memòria a l’hora d’invertir aquests diners.
+### 3.4 Disc Dur
+La nostra el·lecció de disc dur ha estat la SSD Samsung 860 EVO Basic SSD 500GB SATA3. Hem escollit SSD per a poder obrir de la forma més ràpida possible l’ordinador i tots els programes.
+### 3.5 Torre + Font d'alimentació
+ L’aspecte que ens ha cridat més l’atenció de la torre ha estat el fet de que ja portés una Font d’alimentació de 500W incorporada, més que suficient per els components que hem escollit, i més tenint en compte que no hem inclòs tarjeta gràfica (i per tant el consum no és tant elevat). Per tant ens hem quedat amb la torre marca Owlotech EVO.
+### 3.6 Disquetera
+ La torre escollida no inclou disquetera, i hem decidit afegir-ne una dins del pressupost (per poder instalar el sistema operatiu). No hem tingut gaires miraments a l’hora d’escollir la disquetera, i ens hem decantat per a més económica, en aquesta cas la Asus DRW-24D5MT Grabadora DVD 24X Negra.
+### 3.7 Monitor
+Hem escollit el monitor Viewsonic VA2261-2 21.5" LED FullHD (1920 x 1080) ja que té una resolució superior a la que demanaven els requisits dels programes per desenvolupar. Inicialment vam incloure només un monitor, però veient que pot ser d’útil un segon monitor a l’hora de desenvolupar web i aplicacions per a mòbils.
+### 3.8 Teclat + Ratolí
+En el cas del teclat i ratolí, hem seguit el mateix criteri econòmic que amb la disquetera, i hem escollit un pack de teclat+ratolí per fer-ho encara més barat.
+### 3.9 Mac    
+ A l’hora d’escollir el nostre ordinador de producción Mac, haguéssim pogut escollir ordinadors Mac més potents, però per els programes que hem d’utilitzar, amb el MAC mini de 8GB de memòria, amb processador i3 de 4 nuclis i SSD DE 256GB n’estem més que satisfets.
