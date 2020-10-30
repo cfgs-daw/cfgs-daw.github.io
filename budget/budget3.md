@@ -30,21 +30,21 @@
 
 | IMAGEN   | NOMBRE | PRECIO | 
 |:---------|:---------:|:---------:|
-|<img src="img/procesador_03.jpg"  /> | [AMD Ryzen 3 3200G 3.6 GHz ](https://www.pccomponentes.com/amd-ryzen-3-3200g-36-ghz-box) | `99,99€` |
-|<img src="img/placabase_03.jpg" /> | [Asus PRIME B450M-A](https://www.pccomponentes.com/asus-prime-b450m-a) | `73,99€` | 
-|<img src="img/ram.jpg" /> | [Kingston HyperX Fury Black 8GB DDR4 3200Mhz ](https://www.pccomponentes.com/kingston-hyperx-fury-black-8gb-ddr4-3200mhz-pc-25600-cl16) | `37€` |
-|<img src="img/ssd_03.jpg" /> | [Samsung 860 EVO Basic SSD 500GB SATA3](https://www.pccomponentes.com/samsung-860-evo-basic-ssd-500gb-sata3) | `76€` |
-|<img src="img/caja_03.jpg" /> | [Aerocool CS-105 USB 3.0 Negra](https://www.pccomponentes.com/aerocool-cs-105-usb-30-negra) | `22,99€` |
-|<img src="img/fuentealim_03.jpg"  /> | [Nox Urano VX 650W 80+ Bronze](https://www.pccomponentes.com/nox-urano-vx-650w-80-bronze-120mm-pwm) | `49,95€` | 
+|<img src="img/budget3/procesador_03.jpg"  /> | [AMD Ryzen 3 3200G 3.6 GHz ](https://www.pccomponentes.com/amd-ryzen-3-3200g-36-ghz-box) | `99,99€` |
+|<img src="img/budget3/placabase_03.jpg" /> | [Asus PRIME B450M-A](https://www.pccomponentes.com/asus-prime-b450m-a) | `73,99€` | 
+|<img src="img/budget3/ram_03.jpg" /> | [Kingston HyperX Fury Black 8GB DDR4 3200Mhz ](https://www.pccomponentes.com/kingston-hyperx-fury-black-8gb-ddr4-3200mhz-pc-25600-cl16) | `37€` |
+|<img src="img/budget3/ssd_03.jpg" /> | [Samsung 860 EVO Basic SSD 500GB SATA3](https://www.pccomponentes.com/samsung-860-evo-basic-ssd-500gb-sata3) | `76€` |
+|<img src="img/budget3/caja_03.jpg" /> | [Aerocool CS-105 USB 3.0 Negra](https://www.pccomponentes.com/aerocool-cs-105-usb-30-negra) | `22,99€` |
+|<img src="img/budget3/fuentealim_03.jpg"  /> | [Nox Urano VX 650W 80+ Bronze](https://www.pccomponentes.com/nox-urano-vx-650w-80-bronze-120mm-pwm) | `49,95€` | 
 ||| Total: `359,96€`|
 
 <h3 style="font-style: italic; color: #63FAEF ;"> 1.2. <u>Periféricos</u></h3>
 
 | IMAGEN  | NOMBRE | PRECIO | 
 |:---------|:---------:|:---------:|
-|<img src="img/monitor_03.jpg" /> | [ AOC 24B1H 23.6" LED FullHD Mate ](https://www.pccomponentes.com/aoc-24b1h-236-led-fullhd-mate) |`95,99€`|
-|<img src="img/teclado_03.jpg" /> | [ NGS Gaming Pack GBX-1500 ](https://www.pccomponentes.com/ngs-gaming-pack-gbx-1500-teclado-raton-auriculares) |`28,99€`|
-|<img src="img/webcam_03.jpg" /> | [ Owlotech Start Webcam 720p ](https://www.pccomponentes.com/owlotech-start-webcam-720p) |`19,99€`|
+|<img src="img/budget3/monitor_03.jpg" /> | [ AOC 24B1H 23.6" LED FullHD Mate ](https://www.pccomponentes.com/aoc-24b1h-236-led-fullhd-mate) |`95,99€`|
+|<img src="img/budget3/teclado_03.jpg" /> | [ NGS Gaming Pack GBX-1500 ](https://www.pccomponentes.com/ngs-gaming-pack-gbx-1500-teclado-raton-auriculares) |`28,99€`|
+|<img src="img/budget3/webcam_03.jpg" /> | [ Owlotech Start Webcam 720p ](https://www.pccomponentes.com/owlotech-start-webcam-720p) |`19,99€`|
 |||Total: `144,97€`|
 
 
