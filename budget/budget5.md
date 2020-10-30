@@ -1,172 +1,231 @@
-# Pressupost per un ordinador per a desenvolupador web i aplicacions per a mòbils
 
-## 1.Tria i pressupost dels elements
+# Pressupost PC Disseny 2D
 
-### 1.1.Elements de l'ordinador
+<link rel="stylesheet" href="css/style.css">
 
-|                             Imatge                                               |       Component            |     Preu       |
-|:--------------------------------------------------------------------------------:|:--------------------------:|:--------------:|
-|![Placa base](placa_base.jpg) | [Placa base Gigabyte B365M H](https://www.pccomponentes.com/gigabyte-b365m-h) |  65.99€ | 
-|![Processador](processador.jpg) | [Processador Intel Core i5-9400F 2.9GHz](https://www.pccomponentes.com/intel-core-i3-9100-36-ghz) | 129.91€ | 
-|![Memoria RAM](eam.jpg) |[2 X Memòries RAM Kingston HyperX Fury Black 8GB DDR42666Mhz PC-21300 CL16](https://www.pccomponentes.com/kingston-hyperx-fury-black-8gb-ddr4-2666mhz-pc-21300-cl16) | 74€ |
-|![Disc Dur](ssd.jpg) | [Disc dur SSD Samsung 860 EVO Basic SSD 500GB SATA3](https://www.pccomponentes.com/samsung-860-evo-basic-ssd-500gb-sata3) |  76€ | 
-|![Torre](torre.jpg) | [Torre Owlotech EVO USB 3.0 500W](https://www.pccomponentes.com/owlotech-evo-usb-30-500w) |  34.99€ | 
-|![Disquetera](disquetera.jpg) | [Disquetera Asus DRW-24D5MT Grabadora DVD 24X Negra](https://www.pccomponentes.com/asus-drw-24d5mt-grabadora-dvd-24x-negra) | 18.49€ | 
+<br/><br/><br/>
 
-### 1.2.Elements de l'ordinador
+| Imatge | Nom | Quantitat | Preu |
+|--------|-----|:---------:|:----:|
+| ![Intel Core I7](img/i7.jpg) | [Intel Core I7-9700F](https://www.pccomponentes.com/intel-core-i7-9700f-3ghz) | 1 |259,90€ |
+| ![Gygabyte](img/z390.jpg ) | [Gigabyte Z390 Gaming X](https://www.pccomponentes.com/gigabyte-z390-gaming-x) | 1 | 132,89€ |
+| ![Kingston](img/ram_05.jpg ) | [Kingston HyperX Fury Black 2666Mhz 16GB 2X8](https://www.pccomponentes.com/kingston-hyperx-fury-black-16gb-ddr4-2666mhz-pc-21300-2x8gb-cl16) | 1 | 70€ |
+| ![Corsair](img/ref.jpg) | [Corsair H100i RGB PLATINUM Refrigeración Líquida](https://www.pccomponentes.com/corsair-h100i-rgb-platinum-kit-de-refrigeracion-liquida) | 1 | 137,90€ |
+| ![Samsung](img/m2.jpg) | [Samsung 970 EVO Plus 500GB SSD NVMeM.2](https://www.pccomponentes.com/samsung-970-evo-plus-500gb-ssd-nvme-m2) | 1 | 109,99€ |
+| ![Segate](img/hdd.jpg) | [Seagate BarraCuda 3.5" 2TB SATA 3](https://www.pccomponentes.com/seagate-barracuda-35-2tb-sata-3) | 1 | 56,98€ |
+| ![NOX](img/torre_05.jpg) | [NOX Hummer Fusion Cristal Templado USB3.0](https://www.pccomponentes.com/nox-hummer-fusion-cristal-templado-usb-30) | 1 | 69,99€ |
+| ![Corsair](img/font.jpg) | [CorsairRM750 750W 80 Plus Gold Full Modular](https://www.pccomponentes.com/corsair-rm750-750w-80-plus-gold-full-modular) | 1 | 114,99€ |
+| ![EVGA](img/gpu.jpg ) | [EVGA GeForce RTX 2060 KO GAMING 6GB GDDR6](https://www.pccomponentes.com/evga-geforce-rtx-2060-ko-gaming-6gb-gddr6) | 1 | 299,90€ |
+| **Total**  |         |        | 1252,54€ |
 
-|           Imatge              |                                  Periferic                                                     |  Preu    |
-|:-----------------------------:|:----------------------------------------------------------------------------------------------:|:---:|
-|![Monitor](monitor.jpg) | [2 x Monitor Viewsonic VA2261-2 21.5" LED FullHD](https://www.pccomponentes.com/viewsonic-va2261-2-215-led-fullhd) | 159,98€ | 
-|![Teclat i Ratoli](teclat.jpg) | [Teclat i ratolí Logitech Desktop MK120](https://www.pccomponentes.com/logitech-desktop-mk120) | 16.99€ | 
-|![Mac](mac.jpg) | [Ordinador de producció Mac Mac mini](https://www.apple.com/es/shop/buy-mac/mac-mini) | 929€ |
+<br/><br/><br/>
 
-## 2.Descripció de les característiques dels elements
+## Perifèrics
 
-### 2.1.Placa Base
-Placa base marca Gigabyte amb les següents característiques.
+| Imatge | Nom | Quantiat | Preu |
+|--------|-----|:--------:|:----:|
+| ![Monitor](img/monitor_05.jpg) | [Monitor Asus VZ279HE-W 27" LED IPS FullHD ](https://www.pccomponentes.com/monitor-asus-vz279he-w-27-led-ips-fullhd) | 1 | 227,58€ |
+| ![Ratoli](img/raton.jpg) | [Logitech G203 Prodigy Ratón Gaming 8000DPI](https://www.pccomponentes.com/logitech-g203-prodigy-raton-gaming-8000dpi)| 1 | 32,28€ |
+| ![Teclat](img/teclat_05.jpg) | [Corsair K55 Teclado USB RGB](https://www.pccomponentes.com/corsair-k55-teclado-usb-rgb)| 1 | 59,98€ |
+| ![Tableta](img/tableta.jpg) | [Wacom Cintiq Pro 16](https://www.pccomponentes.com/wacom-cintiq-pro-16-uhd-tableta-digitalizadora)| 1 | 1481,78€ |
+| **Total** |        |        | 1801,62€ |
 
-    • Fabricant del procesador: Intel
-    • Socket del procesador: LGA 1151 (Zócalo H4)
-    • Procesador compatible: Intel® Celeron®, Intel® Core™ i3, Intel Core i5, Intel Core i7,
-        Intel Core i9, Intel® Pentium®
-    • Nombre màxim de procesador SMP: 1
-    • Tipus de memòria compatibles: DDR4-SDRAM
-    • Nombre de ranures de memòria: 2
-    • Tipus de ranures de memòria: DIMM
-    • Velocitats de rellotje de memòria soportades: 2133,2400,2666 MHz
-    • Memòria interna màxima: 32 GB
-    • Canals de memòria: Dual
-    • Memòria sense buffer: Si
-    • Ample: 226 mm
-    • Profunditat: 185 mm
-### 2.2.Processador
-Processador de marca Intel, model i5-9400F.
+<br/><br/><br/>
 
-    • Frecuencia del procesador: 2.9Ghz
-    • Número de núcleos de procesador: 6
-    • Litografía del procesador: 14 nm
-    • Número de filamentos de procesador: 6
-    • Serie del procesador: 9th Generation Intel Core i5 Processors
-    • Caché del procesador: 9 MB
-    • Frecuencia del procesador turbo: 4,10 GHz
-    • Tipos de bus: DMI3
-    • Procesador nombre en clave: Coffee Lake
-    • Socket 1151
+## Sistema operatitu
 
-### 2.3 Memòria RAM
-Memòria RAM de 16GB (8X2) marca Kingston, model HyperX Fury Black.
+| Imatge | Nom | Quantiat | Preu |
+|--------|-----|:--------:|:----:|
+| ![Windows 10](img/windows10.png) | [Windows 10](https://www.pccomponentes.com/microsoft-windows-10-home-64bits-oem) | 1 | 111,98€|
+| **Total** |        |        | 111,98€ |
 
-    • Capacidades Individuales: 4 GB, 8 GB y 16 GB
-    • Kits de 2: 8 GB, 16 GB y 32 GB
-    • Kits de 4: 16 GB, 32 GB y 64 GB
-    • Frecuencias 2400MHz, 2666MHz, 3000MHz, 3200MHz, 3466MHz
-    • Latencias CL15, CL16
-    • Voltaje 1,2V, 1,35V
-    • Temperaturas de funcionamiento De 0 °C a 85 °C
+<br/><br/><br/>
 
-### 2.4 Disc dur
-Disc dur SSD marca Samsung, model 800 EVO basic.
+## Descripció components
+<br/>
 
-    • Capacidad: 500 GB.
-    • Formato: 2.5 pulgadas
-    • Interfaz: SATA 6Gb / s (compatible con SATA 3Gb / sy SATA 1.5Gb / s)
-    • Dimensiones: 100 X 69.85 X 6.8 (mm)
-    • Peso: 50.0g
-    • Controlador: Samsung MJX 512 MB
-    • Memoria caché: LPDDR4
-    • Lectura secuencial: Hasta 550 MB / s. El rendimiento puede variar según el hardware
-        utilizado y la configuración.
-    • Escritura secuencial: Hasta 520 MB / s. El rendimiento puede variar según el hardware
-        utilizado y la configuración.
-    • Reproducción aleatoria (4KB, QD32): Hasta 98,000 IOPS. El rendimiento puede variar
-        según el hardware utilizado y la configuración.
-    • Escritura aleatoria (4KB, QD32): Hasta 90,000 IOPS. El rendimiento puede variar según
-        el hardware utilizado y la configuración.
-    • Reproducción aleatoria (4 KB, QD1): Hasta 10.000 IOPS. El rendimiento puede variar
-        según el hardware utilizado y la configuración.
-    • Escritura aleatoria (4KB, QD1): Hasta 42,000 IOPS. El rendimiento puede variar según
-        el hardware utilizado y la configuración.
-    • Consumo de energía: promedio: 2.2 W. Máximo: 3.3 W (modo de ráfaga). El consumo
-        de energía real puede variar según el sistema del equipo utilizado y la configuración.
-    • Fiabilidad (MTBF): 1,5 millones de horas (MTBF)
-    • Temperatura de funcionamiento: 0 - 70 C
+### **Intel Core I79700F:** <br>
+* **Processador**
+  * Familia de procesador: 9th gen Intel® Core™ i7
+  * Frecuencia del procesador: 3 GHz
+  * Número de núcleos de procesador: 8
+  * Socket de procesador: LGA 1151 (Zócalo H4)
+  * Litografía del procesador: 14 nm
+  * Número de filamentos de procesador: 8
+  * System bus data transfer rate: 8 GT/s
+  * Modo de procesador operativo: 64 bits
+  * Caché del procesador: 12 MB
+  * Frecuencia del procesador turbo: 4,7 GHz 
 
-### 2.5 Torre
-Torre marca Owlotech model EVO
+* **Memoria**
+  * Canales de memoria que admite el procesador: Dual
+  * Memoria interna máxima que admite el procesador: 128 GB
+  * Tipos de memoria que admite el procesador: DDR4-SDRAM
+  * Velocidad de reloj de memoria que admite el procesador: 2666 MHz
+  * Ancho de banda de memoria soportada por el procesador (max) <br>
+* **Control de energia**
+   * Potencia de diseño térmico (TDP): 65 W
+<br/><br/>
 
-    • Puertos: 1xUSB 3.0, 2xUSB 2.0
-    • Medidas (mm): 400x180x420
-    • Peso: Neto 3.2KG, Bruto 3.7KG
-    • Compatibilidad placas ATX, Micro ATX, ITX
-    • Bahías: 2 x 5.25",2 x 3.5", 1 x SSD
-    • Ventilación: 1 x 9cm (incluido), 1 x 12cm lateral (opcional)
-    • Fuente de alimentación: Fuente 500W (incluida)
-    • Tamaño máximo del disipador de la CPU 150mm
-    • Tamaño máximo de la tarjeta gráfica 350mm
+### **Gigabyte Z390 Gaming X:** 
+
+ * **Chipset**
+
+   * Intel® Z390 Express Chipset
+
+* **Memory**
+
+   * 4 x DDR4 DIMM sockets supporting up to 64 GB of system memory
+<br/><br/>
+### **Kingston HyperX**
+* **Memoria RAM**
+  * Frecuencia: 2666MHz
+  * Latencia: CL16
+<br/><br/>
+
+### **Corsair H100i RGB**
+* **Refrigerción liquida** 
+  * Dimensiones: 277mm x 120mm x 27mm
+  * Velocidad máxima ventiladores: 2400 RPM
+<br/><br/>
+
+### **Samsung 970 EVO Plus 500GB SSD NVMe M.2** <br>
+
+
+*  **Característiques** 
+   * SDD, capacidad: 500 GB
+
     
- ### 2.6 Disquetera
-Disquetera marca Asus, model DRW-24D5MT
 
-    • Requisitos del sistema
-    • Sistema operativo Windows soportado: Si
-    • Ancho: 146 mm
-    • Profundidad: 170 mm
-    • Altura: 41 mm
-    • Peso: 700 g
-    • Intervalo de humedad relativa para funcionamiento: 20 - 80%
-    • Intervalo de temperatura operativa: 5 - 45 °C
-    • Intervalo de temperatura de almacenaje: -20 - 60 °C
-    • Intervalo de humedad relativa durante almacenaje: 15 - 90%
-    • DVD, tiempo promedio de acceso: 145 ms
-    • Unidad CD-ROM tiempo promedio de acceso: 125 ms
+   * Velocidad de lectura: 3500 MB/s
 
-### 2.7 Monitor
- Monitor marca Viewsonic model VA2261-2
+   * Velocidad de escritura: 3200 MB/s
+<br/><br/>
 
-    • Full HD 1080p para un rendimiento de píxeles superior
-    • Brillo de la pantalla (típico): 200 cd / m²
-    • Resolución de la pantalla: 1920 x 1080 Pixeles
-    • Relación de aspecto nativa: 16:9
-    • Tiempo de respuesta: 5 ms
-    • Tipo HD: Full HD
-    • Tecnología de visualización: LED
-    • Número de colores de la pantalla: 16,78 millones de colores
-    • Consumo energético: 20 W
-    • Consumo de energía (inactivo): 0,5 W
-    • Voltaje de entrada AC: 100 - 240 V
-    • Frecuencia de entrada AC: 50/60 Hz
+### **Seagate BarraCuda 3.5" 2TB SATA 3** <br>
 
-### 2.8 Teclat i ratolí
+ * **HDD**
+    * Capacidad: 2TB
+    * Tamaño del HDD: 3.5"
+<br/><br/>
 
-Pack de teclat i ratolí marca Logitech model MK120.
+### **NOX Hummer Fusion Cristal Templado USB3.0**
+   * **Puertos e Interfaces**
+        * Cantidad de puertos USB 2.0: 2
+        * Cantidad de puertos tipo A USB 3.0 (3.1 Gen 1): 2
+        * Entrada de audio: Si
+        * Salida de audio: Si
+   * **Diseño**
+       *  Factor de forma: Midi-Tower
+       *  Formas de factor de tarjeta madre soportadas: ATX,Mini-ITX
+<br/><br/>
 
-### 2.9 Ordinador de producción Mac (Mac Mini)
+### **Corsair RM750 750W 80 Plus Gold Full Modular**
 
-Ordinador Mac marca Apple, concretamente el model MAC mini
+ * **Puertos e Interfaces**
+      *  Alimentador de energía para tarjeta madre: 20+4 pin ATX
+      *  Conectores de poder (4 pin) periferales (Molex): 1
+      *  Longitud del cable de alimentación de la placa base: 61 cm
+      *  Número de conectores de energía SATA: 10
+      *  Número de PATA conectores de alimentación: 4
+      *  Longitud del cable de alimentación SATA: 800 mm
+      *  Longitud del cable de alimentación periférico (Molex): 750 mm
+      *  Conector de energía EPS (8-pin): Si
+      *  Conectores de poder PCI Express (6 + 2 pin): 6
+      *  Longitud del cable de alimentación PCI Express: 75 cm
+      *  Tipo de cableado: Modular <br>
+  
+ *   **Control de energía**
 
-    • Intel Core i3 de cuatro núcleos a 3,6 GHz de octava generación
-    • 8 GB de memoria DDR4 a 2.666 MHz
-    • Intel UHD Graphics 630
-    • Almacenamiento SSD PCIe de 256 GB 
+      *  Potencia total: 750 W
+      * Voltaje de entrada AC: 100 - 240 V
+      * Frecuencia de entrada AC: 47 - 63 Hz
+      * Corriente de entrada: 10 - 5 A
+      * Potencia combinada (3,3 V): 150 W
+      * Potencia combinada (+12 V): 750 W
+      * Potencia combinada (+5 V): 150 W
+      * Potencia combinada (-12V): 3,6 W
+      * Potencia combinada (+5 VSB): 15 W
+      * Corriente máxima de salida (+3.3V): 20 A
+      * Corriente máxima de salida (+12V): 62,5 A
+      * Corriente máxima de salida (+5V): 20 A
+      * Corriente máxima de salida (-12V): 0,3 A
+      * Corriente máxima de salida (+5Vsb): 3 A
+<br/><br/>    
 
+### **EVGA GeForce RTX 2060 KO GAMING 6GB GDDR6**
+* **Procesador**
+  * CUDA: Si
+  * Núcleos CUDA: 1920
+  * Familia de procesadores de gráficos: NVIDIA
+  * Procesador gráfico: GeForce RTX 2060
+  * Aumento de la velocidad de reloj del procesador: 1680 MHz
+* **Memoria**
+  * Capacidad memoria de adaptador gráfico: 6 GB
+  * Tipo de memoria de adaptador gráfico: GDDR6
+  * Ancho de datos: 192 bit
+  * Velocidad de memoria del reloj: 14000 MHz
+  * Ancho de banda de memoria (max): 336 GB/s
+*  **Control de energia**
+   * Suministro de energía al sistema mínimo: 500 W
+   * Consumo energético: 160 W
+   * Conectores de energia suplementario: 1x 8-pin
+<br/><br/>
+## Descripció perifèrics
+### **Monitor Asus VZ279HE-W 27" LED IPS FullHD**
 
-## 3.Justificació del pressupost
-### 3.1.Placa Base
- Hem triat la placa base Gigabyte B365M H ja que és Micro ATX, compatible amb la torre que hem escollit.
-### 3.2.Processador
- Sobre el procesador, hem optat per un Intel Core i5-9400F de 2.9GHz. Creiem que amb un Intel Core i3 haguès sigut suficient, però degut a que ens sobraven diners del pressupost, hem optat per invertir en un procesador millor, en aquest cas un i5 de 9ª generació.
-### 3.3 Memòria RAM
-Hem tirat per 16GB de memòria RAM (separades en dues de 8GB). Creiem que amb 8GB n’haguessim tingut de sobres per execurar els programes plantejats en l’enunciat, però ja que ens sobraven diners del pressupost, hem decidit donar preferència a la memòria a l’hora d’invertir aquests diners.
-### 3.4 Disc Dur
-La nostra el·lecció de disc dur ha estat la SSD Samsung 860 EVO Basic SSD 500GB SATA3. Hem escollit SSD per a poder obrir de la forma més ràpida possible l’ordinador i tots els programes.
-### 3.5 Torre + Font d'alimentació
- L’aspecte que ens ha cridat més l’atenció de la torre ha estat el fet de que ja portés una Font d’alimentació de 500W incorporada, més que suficient per els components que hem escollit, i més tenint en compte que no hem inclòs tarjeta gràfica (i per tant el consum no és tant elevat). Per tant ens hem quedat amb la torre marca Owlotech EVO.
-### 3.6 Disquetera
- La torre escollida no inclou disquetera, i hem decidit afegir-ne una dins del pressupost (per poder instalar el sistema operatiu). No hem tingut gaires miraments a l’hora d’escollir la disquetera, i ens hem decantat per a més económica, en aquesta cas la Asus DRW-24D5MT Grabadora DVD 24X Negra.
-### 3.7 Monitor
-Hem escollit el monitor Viewsonic VA2261-2 21.5" LED FullHD (1920 x 1080) ja que té una resolució superior a la que demanaven els requisits dels programes per desenvolupar. Inicialment vam incloure només un monitor, però veient que pot ser d’útil un segon monitor a l’hora de desenvolupar web i aplicacions per a mòbils.
-### 3.8 Teclat + Ratolí
-En el cas del teclat i ratolí, hem seguit el mateix criteri econòmic que amb la disquetera, i hem escollit un pack de teclat+ratolí per fer-ho encara més barat.
-### 3.9 Mac    
- A l’hora d’escollir el nostre ordinador de producción Mac, haguéssim pogut escollir ordinadors Mac més potents, però per els programes que hem d’utilitzar, amb el MAC mini de 8GB de memòria, amb processador i3 de 4 nuclis i SSD DE 256GB n’estem més que satisfets.
+ * **Exhibició**
+   * Resolución de la pantalla: 1920 x 1080 Pixeles
+   * Pantalla: LED
+   * Tipo HD: Full HD
+ * **Puertos e Interfaces**
+   *  Conector USB incorporado: No
+   *  Cantidad de puertos VGA (D-Sub): 1
+   *  Puerto DVI: No
+   *  Número de puertos HDMI: 2
+  <br/><br/>
+  
+### **Logitech G603 Ratón Gaming Inalámbrico 12000DPI**
+ * **Especificaciones técnicas**
+   * Resolución: 200 ? 12.000 dpi
+   * Durabilidad
+     * Botones (izquierdo/derecho): 20 millones de clics 
+<br/><br/>
+
+### **Corsair K55 Teclado USB RGB**
+ * **Teclado** 
+   * Interruptor del teclado: Interruptor de membrana
+   * Tiempo de respuesta clave (mín.): 1 ms
+<br/><br/>
+
+### **Wacom Cintiq Pro 16 UHD Tableta Digitalizadora**
+* Característiques
+  * Rendiment avançat 
+  * Sensibilitat de presió
+  * Claridad: pantalla d'alta resolució, qualitat cromática
+* Peso y dimensiones
+  * Ancho: 410 mm
+  * Profundidad: 265 mm
+  * Altura: 17,5 mm
+  * Peso de tableta: 1,5 kg
+* Tableta
+  * Tecnología de conectividad: Alámbrico
+  * Resolución: 5080
+  * Área de trabajo: 294 x 166 mm
+  * Interfaz del dispositivo: USB
+  * Tipo de entrada de tableta: Pluma
+* Pluma
+  * Bolígrafo incluido: Si
+  * Pluma inalámbrica: Si
+  * Nivel de presión: 8192
+  * Pluma libre de batería: Si
+  * Mangos de goma: Si
+<br/><br/>
+
+### **Descripció del pressupost**
+<p>El processador que hem escollit ha sigut aquet ja que la gama F es més barat, perquè al tenir el chip gràfic podem prescindir d'aquest chip ja que fiquem una tarjeta gràfica dedicada.</p>
+<p>Hem escollit dos moduls de RAM de 8GB cada un ja que així obtindrem més rendiment amb la tecnologia dual channel.
+<p>Hem escollit refrigeració liquida per tenir l'ordinador a baixes temperatures, sobretot als moment de renderització.</p>
+<p>La tarjeta gràfica que hem escollit la RTX 2060 per la seva potència i el dia que vam realitzar el pressupost estava rebaixada de preu. Principalment haviem escollit una GTX 1660 però al veure la oferta de la RTX 2060 per la petita diferència de preu i estant dins del pressupost establert hem decidit agafar la RTX 2060.
+<p>De monitors hem escollit simplement un de 27 polzades amb resolució full HD. Només hem escollit un ja que tenim una tableta gràfica que també fa de pantalla.</p>
+<p>De sistema operatiu hem elegit Windows 10 ja que pels programes d'Adobe hi ha millor compatibilitat.</p>

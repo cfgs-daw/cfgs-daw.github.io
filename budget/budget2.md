@@ -1,231 +1,57 @@
+# Pressupost 2. Gamer.
 
-# Pressupost PC Disseny 2D
+<style>
+  img{
+    width:50%
+  }
+</style>
 
-<link rel="stylesheet" href="css/style.css">
+## **Configuració de l'ordinador**
 
-<br/><br/><br/>
+| Imatge |  | Nom | Preu | | Característiques | | Motiu elecció
+|---------|---------|---------|---------|---------|---------|---------|---------|
+| ![AMD Ryzen 7](img/processador.jpg) | **Processador** | <a href="https://www.pccomponentes.com/amd-ryzen-7-3700x-36ghz-box"> AMD Ryzen 7 3700X 3.6GHz BOX </a> | 319,90€ | |<br/> Socket: AM4 <br/><br/> Nuclis: 8 <br/><br/> Fils: 16 <br/><br/> Velocitat: 3.6GHz <br/><br/> || Els processadors AMD Ryzen son molt bons per a ordinadors d'aquest tipus. Aquest processador era el millor per al pressupost que teníam.
+| ![Gigabyte X570 Aorus Ultra](img/placabase.jpg) | **Placa Base** | <a href="https://www.pccomponentes.com/gigabyte-x570-aorus-ultra"> Gigabyte X570 Aorus Ultra </a> | 299,90€ | |<br/> Socket: AM4 <br/><br/> Chipset: AMD X570 <br/><br/> Tipus: ATX <br/><br/>|| Tenía un socket AM4, compatible amb el processador AMD Ryzen 7 i d'una marca coneguda. Ademés, era la més potent que ens podíam permetre sense disparar el preu.
+| ![Corsair Vengeance LPX](img/ram.jpg) | **Memoria RAM** | <a href="https://www.pccomponentes.com/corsair-vengeance-lpx-ddr4-3200-pc4-25600-32gb-2x16gb-cl16"> Corsair Vengeance LPX DDR4 3200 PC4-25600 32GB 2x16GB CL16 </a> | 154,99€ | |<br/> Memoria interna: 32GB <br/><br/> Tipus de memoria interna: DDR4 <br/><br/> || Corsair es una marca molt popular per a RAMS. 32GB es més que suficient per jugar sense problemes.
+  ![Corsair Hydro H60](img/ventilador.jpg) | **Ventilador CPU** | <a href="https://www.pccomponentes.com/corsair-hydro-h60-kit-de-refrigeracion-liquida"> Corsair Hydro H60 Kit de Refrigeración Líquida | 79,94€ ||<br/> -Socket: AM4 <br/><br/> -Chipset: AMD X570 <br/><br>  || Corsair es bona marca en general i dona confiança. Té refrigeració líquida.
+| ![Samsung 860 EVO Basic](img/disc1.jpg) | **Disc dur 1** | <a href="https://www.pccomponentes.com/samsung-860-evo-basic-ssd-500gb-sata3"> Samsung 860 EVO Basic SSD 500GB SATA3 </a> | 76€ |  |<br/> Capacitat: 500 GB. <br/><br/> Tipus: SSD<br/><br/> || Es una SSD de 500GB, suficient per el sistema i algún joc que necessiti més rendiment.
+  ![Seagate BarraCuda 3.5"](img/disc2.jpg) | **Disc dur 2** | <a href="https://www.pccomponentes.com/seagate-barracuda-35-2tb-sata-3"> Seagate BarraCuda 3.5" 2TB SATA 3 </a> | 56,98€ ||<br/> Capacitat: 2000 GB <br/><br/> Tipus: HDD <br/><br/>  || 2TB son més que suficients per altres arxius o jocs menys exigents. Els Seagate BarraCuda son els millors HDDs en quant a calitat-preu.
+| ![Nfortec Krater Cristal](img/torre.jpg) | **Torre** | <a href="https://www.pccomponentes.com/nfortec-krater-cristal-templado-usb-30-argb-negro"> Nfortec Krater Cristal Templado USB 3.0 ARGB Negro </a> | 79,90€ | |<br/> Ventilador: 3 <br/><br/>  || Ens ha agradat visualment i suporta plaques base ATX.
+  ![Aerocool LUX ](img/alimentacio.jpg) | **Font d'alimentació** | <a href="https://www.pccomponentes.com/aerocool-lux-650m-rgb-650w-bronze-semi-modular"> Aerocool LUX 650M RGB 650W Bronze Semi-Modular </a> | 59,98€ | |<br/> Potencia Total: 650W <br/><br/> || Bastanta potencia i té conector ATX. També ens ha agradat visualment. 
+| ![Gigabyte GeForce GTX 1660 Super Gaming OC](img/grafica.jpg) | **Targeta gràfica** | <a href="https://www.pccomponentes.com/gigabyte-geforce-gtx-1660-super-gaming-oc-6gb-gddr6"> Gigabyte GeForce GTX 1660 Super Gaming OC 6GB GDDR6 </a> | 255,90€ ||<br/> Memoria: 6GB <br/><br/> | |Les gràfiques GeForce GTX son de les millors que hi ha per a jugar. Aquesta en concret es la millor que ens podíam permetre sense disparar el pressupost.
+  ![AOC Gaming 24G2U](img/monitor.jpg) | **Monitor** | <a href="https://www.pccomponentes.com/aoc-gaming-24g2u-24-led-ips-fullhd-144hz-freesync"> AOC Gaming 24G2U 24" LED IPS FullHD 144Hz FreeSync </a> | 189,99€ | |<br/> Resolución 1920x1080 PX  <br/><br/> Frecuencia: 144 Hz<br/><br/> || Es un monitor bastant potent que té la resolució necessitada per a poder jugar sense problemes.
+| ![Newskill Suiko](img/teclat.jpg) | **Teclat** | <a href="https://www.pccomponentes.com/newskill-suiko-teclado-mecanico-gaming-full-rgb-switch-kailh-red"> Newskill Suiko Teclado Mecánico Gaming Full RGB Switch Kailh Red </a> | 69,95€ | | ||Es mecànic i ens ha agradat visualment.
+  ![Newskill EOS](img/ratoli.jpg) | **Ratolí** | <a href="https://www.pccomponentes.com/newskill-eos-raton-gaming-professional-rgb-16000dpi"> Newskill EOS Ratón Gaming Professional RGB 16000DPI| 49,95€ </a> | |-DPI: 16000 | |Ens ha agradat visualment.
+  ![Microsoft Windows 10 Pro](img/windows10.jpg) | **Sistema Operatiu** | <a href="https://www.pccomponentes.com/microsoft-windows-10-pro-standard-32-64bits-requiere-montaje-pccom-instalacion-so"> Microsoft Windows 10 Pro Standard 32/64Bits </a> | 132 € | | ||Per a jugar es necessari un Windows, ja que molts jocs no funcionen en altres sistemes operatius.
 
-| Imatge | Nom | Quantitat | Preu |
-|--------|-----|:---------:|:----:|
-| ![Intel Core I7](img/i7.jpg) | [Intel Core I7-9700F](https://www.pccomponentes.com/intel-core-i7-9700f-3ghz) | 1 |259,90€ |
-| ![Gygabyte](img/z390.jpg ) | [Gigabyte Z390 Gaming X](https://www.pccomponentes.com/gigabyte-z390-gaming-x) | 1 | 132,89€ |
-| ![Kingston](img/ram_05.jpg ) | [Kingston HyperX Fury Black 2666Mhz 16GB 2X8](https://www.pccomponentes.com/kingston-hyperx-fury-black-16gb-ddr4-2666mhz-pc-21300-2x8gb-cl16) | 1 | 70€ |
-| ![Corsair](img/ref.jpg) | [Corsair H100i RGB PLATINUM Refrigeración Líquida](https://www.pccomponentes.com/corsair-h100i-rgb-platinum-kit-de-refrigeracion-liquida) | 1 | 137,90€ |
-| ![Samsung](img/m2.jpg) | [Samsung 970 EVO Plus 500GB SSD NVMeM.2](https://www.pccomponentes.com/samsung-970-evo-plus-500gb-ssd-nvme-m2) | 1 | 109,99€ |
-| ![Segate](img/hdd.jpg) | [Seagate BarraCuda 3.5" 2TB SATA 3](https://www.pccomponentes.com/seagate-barracuda-35-2tb-sata-3) | 1 | 56,98€ |
-| ![NOX](img/torre_05.jpg) | [NOX Hummer Fusion Cristal Templado USB3.0](https://www.pccomponentes.com/nox-hummer-fusion-cristal-templado-usb-30) | 1 | 69,99€ |
-| ![Corsair](img/font.jpg) | [CorsairRM750 750W 80 Plus Gold Full Modular](https://www.pccomponentes.com/corsair-rm750-750w-80-plus-gold-full-modular) | 1 | 114,99€ |
-| ![EVGA](img/gpu.jpg ) | [EVGA GeForce RTX 2060 KO GAMING 6GB GDDR6](https://www.pccomponentes.com/evga-geforce-rtx-2060-ko-gaming-6gb-gddr6) | 1 | 299,90€ |
-| **Total**  |         |        | 1252,54€ |
-
-<br/><br/><br/>
-
-## Perifèrics
-
-| Imatge | Nom | Quantiat | Preu |
-|--------|-----|:--------:|:----:|
-| ![Monitor](img/monitor_05.jpg) | [Monitor Asus VZ279HE-W 27" LED IPS FullHD ](https://www.pccomponentes.com/monitor-asus-vz279he-w-27-led-ips-fullhd) | 1 | 227,58€ |
-| ![Ratoli](img/raton.jpg) | [Logitech G203 Prodigy Ratón Gaming 8000DPI](https://www.pccomponentes.com/logitech-g203-prodigy-raton-gaming-8000dpi)| 1 | 32,28€ |
-| ![Teclat](img/teclat_05.jpg) | [Corsair K55 Teclado USB RGB](https://www.pccomponentes.com/corsair-k55-teclado-usb-rgb)| 1 | 59,98€ |
-| ![Tableta](img/tableta.jpg) | [Wacom Cintiq Pro 16](https://www.pccomponentes.com/wacom-cintiq-pro-16-uhd-tableta-digitalizadora)| 1 | 1481,78€ |
-| **Total** |        |        | 1801,62€ |
-
-<br/><br/><br/>
-
-## Sistema operatitu
-
-| Imatge | Nom | Quantiat | Preu |
-|--------|-----|:--------:|:----:|
-| ![Windows 10](img/windows10.png) | [Windows 10](https://www.pccomponentes.com/microsoft-windows-10-home-64bits-oem) | 1 | 111,98€|
-| **Total** |        |        | 111,98€ |
-
-<br/><br/><br/>
-
-## Descripció components
+<br/>
 <br/>
 
-### **Intel Core I79700F:** <br>
-* **Processador**
-  * Familia de procesador: 9th gen Intel® Core™ i7
-  * Frecuencia del procesador: 3 GHz
-  * Número de núcleos de procesador: 8
-  * Socket de procesador: LGA 1151 (Zócalo H4)
-  * Litografía del procesador: 14 nm
-  * Número de filamentos de procesador: 8
-  * System bus data transfer rate: 8 GT/s
-  * Modo de procesador operativo: 64 bits
-  * Caché del procesador: 12 MB
-  * Frecuencia del procesador turbo: 4,7 GHz 
+### **Preu final**
 
-* **Memoria**
-  * Canales de memoria que admite el procesador: Dual
-  * Memoria interna máxima que admite el procesador: 128 GB
-  * Tipos de memoria que admite el procesador: DDR4-SDRAM
-  * Velocidad de reloj de memoria que admite el procesador: 2666 MHz
-  * Ancho de banda de memoria soportada por el procesador (max) <br>
-* **Control de energia**
-   * Potencia de diseño térmico (TDP): 65 W
-<br/><br/>
-
-### **Gigabyte Z390 Gaming X:** 
-
- * **Chipset**
-
-   * Intel® Z390 Express Chipset
-
-* **Memory**
-
-   * 4 x DDR4 DIMM sockets supporting up to 64 GB of system memory
-<br/><br/>
-### **Kingston HyperX**
-* **Memoria RAM**
-  * Frecuencia: 2666MHz
-  * Latencia: CL16
-<br/><br/>
-
-### **Corsair H100i RGB**
-* **Refrigerción liquida** 
-  * Dimensiones: 277mm x 120mm x 27mm
-  * Velocidad máxima ventiladores: 2400 RPM
-<br/><br/>
-
-### **Samsung 970 EVO Plus 500GB SSD NVMe M.2** <br>
-
-
-*  **Característiques** 
-   * SDD, capacidad: 500 GB
-
-    
-
-   * Velocidad de lectura: 3500 MB/s
-
-   * Velocidad de escritura: 3200 MB/s
-<br/><br/>
-
-### **Seagate BarraCuda 3.5" 2TB SATA 3** <br>
-
- * **HDD**
-    * Capacidad: 2TB
-    * Tamaño del HDD: 3.5"
-<br/><br/>
-
-### **NOX Hummer Fusion Cristal Templado USB3.0**
-   * **Puertos e Interfaces**
-        * Cantidad de puertos USB 2.0: 2
-        * Cantidad de puertos tipo A USB 3.0 (3.1 Gen 1): 2
-        * Entrada de audio: Si
-        * Salida de audio: Si
-   * **Diseño**
-       *  Factor de forma: Midi-Tower
-       *  Formas de factor de tarjeta madre soportadas: ATX,Mini-ITX
-<br/><br/>
-
-### **Corsair RM750 750W 80 Plus Gold Full Modular**
-
- * **Puertos e Interfaces**
-      *  Alimentador de energía para tarjeta madre: 20+4 pin ATX
-      *  Conectores de poder (4 pin) periferales (Molex): 1
-      *  Longitud del cable de alimentación de la placa base: 61 cm
-      *  Número de conectores de energía SATA: 10
-      *  Número de PATA conectores de alimentación: 4
-      *  Longitud del cable de alimentación SATA: 800 mm
-      *  Longitud del cable de alimentación periférico (Molex): 750 mm
-      *  Conector de energía EPS (8-pin): Si
-      *  Conectores de poder PCI Express (6 + 2 pin): 6
-      *  Longitud del cable de alimentación PCI Express: 75 cm
-      *  Tipo de cableado: Modular <br>
+* **Components**
+  * Processador: 319,90€
+  * Placa base: 299,90€
+  * RAM: 154,99€
+  * Ventilador: 79,94€
+  * Disc dur: 76€
+  * Disc dur 2: 56,98€
+  * Caixa: 79,90€
+  * Alimentació: 59,98€
+  * Gràfica: 255,90
+  * **Total:** 1383,49€
   
- *   **Control de energía**
-
-      *  Potencia total: 750 W
-      * Voltaje de entrada AC: 100 - 240 V
-      * Frecuencia de entrada AC: 47 - 63 Hz
-      * Corriente de entrada: 10 - 5 A
-      * Potencia combinada (3,3 V): 150 W
-      * Potencia combinada (+12 V): 750 W
-      * Potencia combinada (+5 V): 150 W
-      * Potencia combinada (-12V): 3,6 W
-      * Potencia combinada (+5 VSB): 15 W
-      * Corriente máxima de salida (+3.3V): 20 A
-      * Corriente máxima de salida (+12V): 62,5 A
-      * Corriente máxima de salida (+5V): 20 A
-      * Corriente máxima de salida (-12V): 0,3 A
-      * Corriente máxima de salida (+5Vsb): 3 A
-<br/><br/>    
-
-### **EVGA GeForce RTX 2060 KO GAMING 6GB GDDR6**
-* **Procesador**
-  * CUDA: Si
-  * Núcleos CUDA: 1920
-  * Familia de procesadores de gráficos: NVIDIA
-  * Procesador gráfico: GeForce RTX 2060
-  * Aumento de la velocidad de reloj del procesador: 1680 MHz
-* **Memoria**
-  * Capacidad memoria de adaptador gráfico: 6 GB
-  * Tipo de memoria de adaptador gráfico: GDDR6
-  * Ancho de datos: 192 bit
-  * Velocidad de memoria del reloj: 14000 MHz
-  * Ancho de banda de memoria (max): 336 GB/s
-*  **Control de energia**
-   * Suministro de energía al sistema mínimo: 500 W
-   * Consumo energético: 160 W
-   * Conectores de energia suplementario: 1x 8-pin
-<br/><br/>
-## Descripció perifèrics
-### **Monitor Asus VZ279HE-W 27" LED IPS FullHD**
-
- * **Exhibició**
-   * Resolución de la pantalla: 1920 x 1080 Pixeles
-   * Pantalla: LED
-   * Tipo HD: Full HD
- * **Puertos e Interfaces**
-   *  Conector USB incorporado: No
-   *  Cantidad de puertos VGA (D-Sub): 1
-   *  Puerto DVI: No
-   *  Número de puertos HDMI: 2
-  <br/><br/>
+* **Periférics**
+  * Monitor: 189,99€
+  * Teclat: 69,95€
+  * Ratolí: 49,95€
+  * **Total:** 309,89€
   
-### **Logitech G603 Ratón Gaming Inalámbrico 12000DPI**
- * **Especificaciones técnicas**
-   * Resolución: 200 ? 12.000 dpi
-   * Durabilidad
-     * Botones (izquierdo/derecho): 20 millones de clics 
-<br/><br/>
+* **Sistema Operatiu**
+  * Microsoft Windows 10 Pro Standard
+  * **Total:** 132€
 
-### **Corsair K55 Teclado USB RGB**
- * **Teclado** 
-   * Interruptor del teclado: Interruptor de membrana
-   * Tiempo de respuesta clave (mín.): 1 ms
-<br/><br/>
-
-### **Wacom Cintiq Pro 16 UHD Tableta Digitalizadora**
-* Característiques
-  * Rendiment avançat 
-  * Sensibilitat de presió
-  * Claridad: pantalla d'alta resolució, qualitat cromática
-* Peso y dimensiones
-  * Ancho: 410 mm
-  * Profundidad: 265 mm
-  * Altura: 17,5 mm
-  * Peso de tableta: 1,5 kg
-* Tableta
-  * Tecnología de conectividad: Alámbrico
-  * Resolución: 5080
-  * Área de trabajo: 294 x 166 mm
-  * Interfaz del dispositivo: USB
-  * Tipo de entrada de tableta: Pluma
-* Pluma
-  * Bolígrafo incluido: Si
-  * Pluma inalámbrica: Si
-  * Nivel de presión: 8192
-  * Pluma libre de batería: Si
-  * Mangos de goma: Si
-<br/><br/>
-
-### **Descripció del pressupost**
-<p>El processador que hem escollit ha sigut aquet ja que la gama F es més barat, perquè al tenir el chip gràfic podem prescindir d'aquest chip ja que fiquem una tarjeta gràfica dedicada.</p>
-<p>Hem escollit dos moduls de RAM de 8GB cada un ja que així obtindrem més rendiment amb la tecnologia dual channel.
-<p>Hem escollit refrigeració liquida per tenir l'ordinador a baixes temperatures, sobretot als moment de renderització.</p>
-<p>La tarjeta gràfica que hem escollit la RTX 2060 per la seva potència i el dia que vam realitzar el pressupost estava rebaixada de preu. Principalment haviem escollit una GTX 1660 però al veure la oferta de la RTX 2060 per la petita diferència de preu i estant dins del pressupost establert hem decidit agafar la RTX 2060.
-<p>De monitors hem escollit simplement un de 27 polzades amb resolució full HD. Només hem escollit un ja que tenim una tableta gràfica que també fa de pantalla.</p>
-<p>De sistema operatiu hem elegit Windows 10 ja que pels programes d'Adobe hi ha millor compatibilitat.</p>
+* **TOTAL:** 1825,38€
+  <br/>
+  <br/>
+  **Preus agafats a data 22/10/2020**
