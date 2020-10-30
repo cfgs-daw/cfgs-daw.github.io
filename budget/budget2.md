@@ -1,42 +1,43 @@
 
 
-<link rel="stylesheet" href="css/style.css">
+<!--<link rel="stylesheet" href="css/style.css">-->
 
 # Pressupost PC Disseny 2D
 
-<br><br><br>
+<!--<br/><br/><br/>-->
 
 
-| Imatge | Nom  | Quantitat | Preu   |
-|--------|---------|:-------:|:-------:|
-| ![Intel Core I7](img/i7.jpg)| [Intel Core I7-9700F](https://www.pccomponentes.com/intel-core-i7-9700f-3ghz) | 1 |259,90€ |
-| ![Gygabyte](img/z390.jpg )| [Gigabyte Z390 Gaming X](https://www.pccomponentes.com/gigabyte-z390-gaming-x) | 1 | 132,89€ |
-| ![Kingston](img/ram_05.jpg )| [Kingston HyperX Fury Black 2666Mhz 16GB 2X8](https://www.pccomponentes.com/kingston-hyperx-fury-black-16gb-ddr4-2666mhz-pc-21300-2x8gb-cl16) | 1 | 70€ |
-| ![Corsair](img/ref.jpg)| [Corsair H100i RGB PLATINUM Refrigeración Líquida](https://www.pccomponentes.com/corsair-h100i-rgb-platinum-kit-de-refrigeracion-liquida) | 1 | 137,90€ |
-| ![Samsung](img/m2.jpg)| [Samsung 970 EVO Plus 500GB SSD NVMeM.2](https://www.pccomponentes.com/samsung-970-evo-plus-500gb-ssd-nvme-m2) | 1 | 109,99€ |
-| ![Segate](img/hdd.jpg)| [Seagate BarraCuda 3.5" 2TB SATA 3](https://www.pccomponentes.com/seagate-barracuda-35-2tb-sata-3) | 1 | 56,98€ |
-| ![NOX](img/torre_05.jpg)| [NOX Hummer Fusion Cristal Templado USB3.0](https://www.pccomponentes.com/nox-hummer-fusion-cristal-templado-usb-30) | 1 | 69,99€ |
-| ![Corsair](img/font.jpg)| [CorsairRM750 750W 80 Plus Gold Full Modular](https://www.pccomponentes.com/corsair-rm750-750w-80-plus-gold-full-modular) | 1 | 114,99€ |
-| ![EVGA](img/gpu.jpg )| [EVGA GeForce RTX 2060 KO GAMING 6GB GDDR6](https://www.pccomponentes.com/evga-geforce-rtx-2060-ko-gaming-6gb-gddr6) | 1 | 299,90€ |
+| Imatge | Nom | Quantitat | Preu |
+|--------|-----|:---------:|:----:|
+| ![Intel Core I7](img/i7.jpg) | [Intel Core I7-9700F](https://www.pccomponentes.com/intel-core-i7-9700f-3ghz) | 1 |259,90€ |
+| ![Gygabyte](img/z390.jpg ) | [Gigabyte Z390 Gaming X](https://www.pccomponentes.com/gigabyte-z390-gaming-x) | 1 | 132,89€ |
+| ![Kingston](img/ram_05.jpg ) | [Kingston HyperX Fury Black 2666Mhz 16GB 2X8](https://www.pccomponentes.com/kingston-hyperx-fury-black-16gb-ddr4-2666mhz-pc-21300-2x8gb-cl16) | 1 | 70€ |
+| ![Corsair](img/ref.jpg) | [Corsair H100i RGB PLATINUM Refrigeración Líquida](https://www.pccomponentes.com/corsair-h100i-rgb-platinum-kit-de-refrigeracion-liquida) | 1 | 137,90€ |
+| ![Samsung](img/m2.jpg) | [Samsung 970 EVO Plus 500GB SSD NVMeM.2](https://www.pccomponentes.com/samsung-970-evo-plus-500gb-ssd-nvme-m2) | 1 | 109,99€ |
+| ![Segate](img/hdd.jpg) | [Seagate BarraCuda 3.5" 2TB SATA 3](https://www.pccomponentes.com/seagate-barracuda-35-2tb-sata-3) | 1 | 56,98€ |
+| ![NOX](img/torre_05.jpg) | [NOX Hummer Fusion Cristal Templado USB3.0](https://www.pccomponentes.com/nox-hummer-fusion-cristal-templado-usb-30) | 1 | 69,99€ |
+| ![Corsair](img/font.jpg) | [CorsairRM750 750W 80 Plus Gold Full Modular](https://www.pccomponentes.com/corsair-rm750-750w-80-plus-gold-full-modular) | 1 | 114,99€ |
+| ![EVGA](img/gpu.jpg ) | [EVGA GeForce RTX 2060 KO GAMING 6GB GDDR6](https://www.pccomponentes.com/evga-geforce-rtx-2060-ko-gaming-6gb-gddr6) | 1 | 299,90€ |
 | **Total**  |         |        | 1252,54€ |
 
-<br/><br/><br/>
+<!--<br/><br/><br/>-->
 
 ## Perifèrics
 
-| Imatge | Nom | Quantiat | Preu|
-|--------|------|:--------:|:-----:|
-| ![Monitor](img/monitor_05.jpg) | [Monitor Asus VZ279HE-W 27" LED IPS FullHD ](https://www.pccomponentes.com/monitor-asus-vz279he-w-27-led-ips-fullhd) | 1 | 227,58€|
-| ![Ratoli](img/raton.jpg) | [Logitech G203 Prodigy Ratón Gaming 8000DPI](https://www.pccomponentes.com/logitech-g203-prodigy-raton-gaming-8000dpi)| 1| 32,28€|
-| ![Teclat](img/teclat_05.jpg) | [Corsair K55 Teclado USB RGB](https://www.pccomponentes.com/corsair-k55-teclado-usb-rgb)| 1|59,98€|
-| ![Tableta](img/tableta.jpg) | [Wacom Cintiq Pro 16](https://www.pccomponentes.com/wacom-cintiq-pro-16-uhd-tableta-digitalizadora)| 1|1481,78€|
-| **Total** |        |        |1801,62€|
+| Imatge | Nom | Quantiat | Preu |
+|--------|-----|:--------:|:----:|
+| ![Monitor](img/monitor_05.jpg) | [Monitor Asus VZ279HE-W 27" LED IPS FullHD ](https://www.pccomponentes.com/monitor-asus-vz279he-w-27-led-ips-fullhd) | 1 | 227,58€ |
+| ![Ratoli](img/raton.jpg) | [Logitech G203 Prodigy Ratón Gaming 8000DPI](https://www.pccomponentes.com/logitech-g203-prodigy-raton-gaming-8000dpi)| 1 | 32,28€ |
+| ![Teclat](img/teclat_05.jpg) | [Corsair K55 Teclado USB RGB](https://www.pccomponentes.com/corsair-k55-teclado-usb-rgb)| 1 | 59,98€ |
+| ![Tableta](img/tableta.jpg) | [Wacom Cintiq Pro 16](https://www.pccomponentes.com/wacom-cintiq-pro-16-uhd-tableta-digitalizadora)| 1 | 1481,78€ |
+| **Total** |        |        | 1801,62€ |
+
 <br/><br/><br/>
 
 ## Sistema operatitu
 
-| Imatge | Nom | Quantiat | Preu|
-|--------|----|:--------:|:---:|
+| Imatge | Nom | Quantiat | Preu |
+|--------|-----|:--------:|:----:|
 | ![Windows 10](img/windows10.png) | [Windows 10](https://www.pccomponentes.com/microsoft-windows-10-home-64bits-oem) | 1 | 111,98€|
 | **Total** |        |        |111,98€|
 <br/><br/><br/>
