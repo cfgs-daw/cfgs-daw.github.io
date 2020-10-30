@@ -40,7 +40,7 @@ El següent pressupost correspon a un ordinador amb les exigències que té un d
 <br/>
 
 | **Total** | **Pressupost 6. Desenvolupador de videojocs** | **Preu 2279,82€** |
-| ------ | ------ | ------ |
+|------|------|------|
 
 <br/>
 <br/>
