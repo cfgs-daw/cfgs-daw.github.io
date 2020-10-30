@@ -24,11 +24,11 @@
 
 | Imatge | Nom | Quantiat | Preu |
 |--------|-----|:--------:|:----:|
-| ![Monitor](img/monitor_05.jpg) | [Monitor Asus VZ279HE-W 27" LED IPS FullHD ](https://www.pccomponentes.com/monitor-asus-vz279he-w-27-led-ips-fullhd) | 1 | 227,58€|
-| ![Ratoli](img/raton.jpg) | [Logitech G203 Prodigy Ratón Gaming 8000DPI](https://www.pccomponentes.com/logitech-g203-prodigy-raton-gaming-8000dpi)| 1| 32,28€|
-| ![Teclat](img/teclat_05.jpg) | [Corsair K55 Teclado USB RGB](https://www.pccomponentes.com/corsair-k55-teclado-usb-rgb)| 1|59,98€|
-| ![Tableta](img/tableta.jpg) | [Wacom Cintiq Pro 16](https://www.pccomponentes.com/wacom-cintiq-pro-16-uhd-tableta-digitalizadora)| 1|1481,78€|
-| **Total** |        |        |1801,62€|
+| ![Monitor](img/monitor_05.jpg) | [Monitor Asus VZ279HE-W 27" LED IPS FullHD ](https://www.pccomponentes.com/monitor-asus-vz279he-w-27-led-ips-fullhd) | 1 | 227,58€ |
+| ![Ratoli](img/raton.jpg) | [Logitech G203 Prodigy Ratón Gaming 8000DPI](https://www.pccomponentes.com/logitech-g203-prodigy-raton-gaming-8000dpi)| 1 | 32,28€ |
+| ![Teclat](img/teclat_05.jpg) | [Corsair K55 Teclado USB RGB](https://www.pccomponentes.com/corsair-k55-teclado-usb-rgb)| 1 | 59,98€ |
+| ![Tableta](img/tableta.jpg) | [Wacom Cintiq Pro 16](https://www.pccomponentes.com/wacom-cintiq-pro-16-uhd-tableta-digitalizadora)| 1 | 1481,78€ |
+| **Total** |        |        | 1801,62€ |
 <br/><br/><br/>
 
 ## Sistema operatitu
