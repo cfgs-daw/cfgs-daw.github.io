@@ -1,8 +1,6 @@
-
-
-<link rel="stylesheet" href="css/style.css">
-
 # Pressupost PC Disseny 2D
+
+<!--<link rel="stylesheet" href="css/style.css">-->
 
 <br><br><br>
 
