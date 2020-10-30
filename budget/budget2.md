@@ -3,7 +3,7 @@
 
 <link rel="stylesheet" href="css/style.css">
 
-<!--<br/><br/><br/>-->
+<br/><br/><br/>
 
 | Imatge | Nom | Quantitat | Preu |
 |--------|-----|:---------:|:----:|
