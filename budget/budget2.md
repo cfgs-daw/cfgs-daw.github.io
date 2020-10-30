@@ -30,7 +30,7 @@
 | ![Tableta](img/tableta.jpg) | [Wacom Cintiq Pro 16](https://www.pccomponentes.com/wacom-cintiq-pro-16-uhd-tableta-digitalizadora)| 1 | 1481,78€ |
 | **Total** |        |        | 1801,62€ |
 
-<br/><br/><br/>
+<!--<br/><br/><br/>-->
 
 ## Sistema operatitu
 
