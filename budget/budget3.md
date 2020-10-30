@@ -1,4 +1,6 @@
 
+# PRESUPUESTO 3.- ORDENADOR BÁSICO
+
 <style>
     img {width: 50%;}
     .markdown-body {
@@ -20,8 +22,6 @@
         color: #ffffff!important;
     }
 </style>
-
-# PRESUPUESTO 3.- ORDENADOR BÁSICO
 
 <h2 style="font-style: italic; color: #5AE398;"> 1. <u>Elección y presupuesto de los elementos</u></h2>
 

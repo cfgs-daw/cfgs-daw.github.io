@@ -1,3 +1,5 @@
+# Part 1: Presentació dels components del servidor
+
 <style>
   img {
       width: 40%;
@@ -19,7 +21,6 @@ caja {
 }
 </style>
 
-# Part 1: Presentació dels components del servidor
 ### El nostre servidor per executar programes de realitat virtual tindria aquests components:
 
 | <img src=https://img.pccomponentes.com/articles/25/259753/msi-mag-forge-100m-cristal-templado-usb-32-rgb-caracteristicas.jpg> | <a href="https://www.pccomponentes.com/msi-mag-forge-100r-cristal-templado-usb-32-rgb"> **MSI MAG Forge 100M Cristal Templado USB 3.2 RGB** | **44,99€** |
