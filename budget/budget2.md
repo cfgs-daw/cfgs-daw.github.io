@@ -5,8 +5,8 @@
 <!--<br/><br/><br/>-->
 
 
-| Imatge | Nom  | Quantitat | Preu   |
-|--------|---------|:-------:|:-------:|
+| Imatge | Nom | Quantitat | Preu |
+|--------|-----|:---------:|:----:|
 | ![Intel Core I7](img/i7.jpg)| [Intel Core I7-9700F](https://www.pccomponentes.com/intel-core-i7-9700f-3ghz) | 1 |259,90€ |
 | ![Gygabyte](img/z390.jpg )| [Gigabyte Z390 Gaming X](https://www.pccomponentes.com/gigabyte-z390-gaming-x) | 1 | 132,89€ |
 | ![Kingston](img/ram_05.jpg )| [Kingston HyperX Fury Black 2666Mhz 16GB 2X8](https://www.pccomponentes.com/kingston-hyperx-fury-black-16gb-ddr4-2666mhz-pc-21300-2x8gb-cl16) | 1 | 70€ |
@@ -22,8 +22,8 @@
 
 ## Perifèrics
 
-| Imatge | Nom | Quantiat | Preu|
-|--------|------|:--------:|:-----:|
+| Imatge | Nom | Quantiat | Preu |
+|--------|-----|:--------:|:----:|
 | ![Monitor](img/monitor_05.jpg) | [Monitor Asus VZ279HE-W 27" LED IPS FullHD ](https://www.pccomponentes.com/monitor-asus-vz279he-w-27-led-ips-fullhd) | 1 | 227,58€|
 | ![Ratoli](img/raton.jpg) | [Logitech G203 Prodigy Ratón Gaming 8000DPI](https://www.pccomponentes.com/logitech-g203-prodigy-raton-gaming-8000dpi)| 1| 32,28€|
 | ![Teclat](img/teclat_05.jpg) | [Corsair K55 Teclado USB RGB](https://www.pccomponentes.com/corsair-k55-teclado-usb-rgb)| 1|59,98€|
