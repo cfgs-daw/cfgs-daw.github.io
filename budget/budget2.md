@@ -37,7 +37,8 @@
 | Imatge | Nom | Quantiat | Preu |
 |--------|-----|:--------:|:----:|
 | ![Windows 10](img/windows10.png) | [Windows 10](https://www.pccomponentes.com/microsoft-windows-10-home-64bits-oem) | 1 | 111,98€|
-| **Total** |        |        |111,98€|
+| **Total** |        |        | 111,98€ |
+
 <br/><br/><br/>
 
 ## Descripció components
