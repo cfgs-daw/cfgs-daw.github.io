@@ -6,20 +6,20 @@
 
 |                             Imatge                                               |       Component            |     Preu       |
 |:--------------------------------------------------------------------------------:|:--------------------------:|:--------------:|
-|![Placa base](placa_base.jpg) | [Placa base Gigabyte B365M H](https://www.pccomponentes.com/gigabyte-b365m-h) |  65.99€ | 
-|![Processador](processador.jpg) | [Processador Intel Core i5-9400F 2.9GHz](https://www.pccomponentes.com/intel-core-i3-9100-36-ghz) | 129.91€ | 
-|![Memoria RAM](eam.jpg) |[2 X Memòries RAM Kingston HyperX Fury Black 8GB DDR42666Mhz PC-21300 CL16](https://www.pccomponentes.com/kingston-hyperx-fury-black-8gb-ddr4-2666mhz-pc-21300-cl16) | 74€ |
-|![Disc Dur](ssd.jpg) | [Disc dur SSD Samsung 860 EVO Basic SSD 500GB SATA3](https://www.pccomponentes.com/samsung-860-evo-basic-ssd-500gb-sata3) |  76€ | 
-|![Torre](torre.jpg) | [Torre Owlotech EVO USB 3.0 500W](https://www.pccomponentes.com/owlotech-evo-usb-30-500w) |  34.99€ | 
-|![Disquetera](disquetera.jpg) | [Disquetera Asus DRW-24D5MT Grabadora DVD 24X Negra](https://www.pccomponentes.com/asus-drw-24d5mt-grabadora-dvd-24x-negra) | 18.49€ | 
+|![Placa base](img/budget1/placa_base.jpg) | [Placa base Gigabyte B365M H](https://www.pccomponentes.com/gigabyte-b365m-h) |  65.99€ | 
+|![Processador](img/budget1/processador.jpg) | [Processador Intel Core i5-9400F 2.9GHz](https://www.pccomponentes.com/intel-core-i3-9100-36-ghz) | 129.91€ | 
+|![Memoria RAM](img/budget1/eam.jpg) |[2 X Memòries RAM Kingston HyperX Fury Black 8GB DDR42666Mhz PC-21300 CL16](https://www.pccomponentes.com/kingston-hyperx-fury-black-8gb-ddr4-2666mhz-pc-21300-cl16) | 74€ |
+|![Disc Dur](img/budget1/ssd.jpg) | [Disc dur SSD Samsung 860 EVO Basic SSD 500GB SATA3](https://www.pccomponentes.com/samsung-860-evo-basic-ssd-500gb-sata3) |  76€ | 
+|![Torre](img/budget1/torre.jpg) | [Torre Owlotech EVO USB 3.0 500W](https://www.pccomponentes.com/owlotech-evo-usb-30-500w) |  34.99€ | 
+|![Disquetera](img/budget1/disquetera.jpg) | [Disquetera Asus DRW-24D5MT Grabadora DVD 24X Negra](https://www.pccomponentes.com/asus-drw-24d5mt-grabadora-dvd-24x-negra) | 18.49€ | 
 
 ### 1.2.Elements de l'ordinador
 
 |           Imatge              |                                  Periferic                                                     |  Preu    |
 |:-----------------------------:|:----------------------------------------------------------------------------------------------:|:---:|
-|![Monitor](monitor.jpg) | [2 x Monitor Viewsonic VA2261-2 21.5" LED FullHD](https://www.pccomponentes.com/viewsonic-va2261-2-215-led-fullhd) | 159,98€ | 
-|![Teclat i Ratoli](teclat.jpg) | [Teclat i ratolí Logitech Desktop MK120](https://www.pccomponentes.com/logitech-desktop-mk120) | 16.99€ | 
-|![Mac](mac.jpg) | [Ordinador de producció Mac Mac mini](https://www.apple.com/es/shop/buy-mac/mac-mini) | 929€ |
+|![Monitor](img/budget1/monitor.jpg) | [2 x Monitor Viewsonic VA2261-2 21.5" LED FullHD](https://www.pccomponentes.com/viewsonic-va2261-2-215-led-fullhd) | 159,98€ | 
+|![Teclat i Ratoli](img/budget1/teclat.jpg) | [Teclat i ratolí Logitech Desktop MK120](https://www.pccomponentes.com/logitech-desktop-mk120) | 16.99€ | 
+|![Mac](img/budget1/mac.jpg) | [Ordinador de producció Mac Mac mini](https://www.apple.com/es/shop/buy-mac/mac-mini) | 929€ |
 
 ## 2.Descripció de les característiques dels elements
 
