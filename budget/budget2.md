@@ -1,11 +1,9 @@
 
+# Pressupost PC Disseny 2D
 
 <!--<link rel="stylesheet" href="css/style.css">-->
 
-# Pressupost PC Disseny 2D
-
 <!--<br/><br/><br/>-->
-
 
 | Imatge | Nom | Quantitat | Preu |
 |--------|-----|:---------:|:----:|
