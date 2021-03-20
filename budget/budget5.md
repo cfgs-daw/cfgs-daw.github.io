@@ -1,7 +1,24 @@
 
-# Pressupost PC Disseny 2D
+# Pressupost 5: PC Disseny 2D
 
 <link rel="stylesheet" href="css/style.css">
+
+---
+
+## **Enunciat**
+
+La configuració de l’ordinador de sobretaula d’un dissenyador gràfic 2D ha de complir les següents especificacions:
+- Ha de poder executar els programes d’edició Photoshop, InDesigne i Illustrator.
+- La càrrega del sistema operatiu, així com també la dels diferents programes, ha deser ràpida.
+- Cal que tingui un disc dur d’alta capacitat d’emmagatzemament.
+- Ha de poder gestionar la tauleta digitalitzadora Wacom Cintiq Pro 24 (no entra dins del pressupost).
+- El pressupost que teniu disponible pels components essencials de l’ordinador (torre) és d’entre 900€ i 1300€. Si, per alguna raó, sortiu fora d’aquests marges, ho haureu de justificar.
+
+Addicionalment al pressupost de la torre, afegiu els següents elements:
+- Tots aquells perifèrics que cregueu convenients, ajustant el preu al màxim.
+- El sistema operatiu que cregueu més adient.
+
+---
 
 <br/><br/><br/>
 
