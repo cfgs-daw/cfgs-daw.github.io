@@ -100,12 +100,12 @@ Addicionalment al pressupost de la torre, afegiu els següents elements:
 <h3 style="font-style: italic; color: #63FAEF ;"> 2.4 <u>SSD</u><h3 style="font-style: italic; color: #63FAEF ;"></h3>
 <u style="font-weight: bold; font-style: italic; color: #7AFA63"> Samsung 860 EVO Basic SSD 500GB </u>
 
- * ##### Capacidad: 500 GB
- * ##### Formato: 2.5 pulgadas
- * ##### Interfaz: SATA 6gbps
- * ##### Velocidades: 
-   * ##### Lectura secuencial: Hasta 550 MB/s
-   * ##### Escritura Secuencial: Hasta 520 MB /s
+* ##### Capacidad: 500 GB
+* ##### Formato: 2.5 pulgadas
+* ##### Interfaz: SATA 6gbps
+* ##### Velocidades: 
+ * ##### Lectura secuencial: Hasta 550 MB/s
+ * ##### Escritura Secuencial: Hasta 520 MB /s
   <h3 style="font-style: italic; color: #63FAEF ;"> 2.5. <u>Fuente de alimentación</u></h3>
 <u style="font-weight: bold; font-style: italic; color: #7AFA63"> Nox Urano VX 650W 80+ Bronze </u>
 
