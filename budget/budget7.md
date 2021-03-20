@@ -21,6 +21,21 @@ caja {
 }
 </style>
 
+---
+
+## **Enunciat**
+
+La configuració d'un servidor de realitat virtual per a un museu ha de complir les següents especificacions:
+- Ha de poder suportar els headsets HTC Vive Pro i Oculus Rift.
+- a de poder visualitzar models 3D d’altra resolució.
+- El pressupost que teniu disponible pels components essencials de l’ordinador (torre) és d’entre 1500€ i 3500€. Si, per alguna raó, sortiu fora d’aquests marges, ho haureu de justificar.
+
+Addicionalment al pressupost de la torre, afegiu els següents elements:
+- Tots aquells perifèrics que cregueu convenients, ajustant el preu al màxim (afegiules ulleres de realitat virtual indicades en l’apartat anterior).
+- El sistema operatiu que cregueu més adient.
+
+---
+
 ### El nostre servidor per executar programes de realitat virtual tindria aquests components:
 
 | <img src=https://img.pccomponentes.com/articles/25/259753/msi-mag-forge-100m-cristal-templado-usb-32-rgb-caracteristicas.jpg> | <a href="https://www.pccomponentes.com/msi-mag-forge-100r-cristal-templado-usb-32-rgb"> **MSI MAG Forge 100M Cristal Templado USB 3.2 RGB** | **44,99€** |
