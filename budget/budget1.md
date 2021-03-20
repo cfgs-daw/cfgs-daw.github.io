@@ -1,4 +1,20 @@
-# Pressupost per un ordinador per a desenvolupador web i aplicacions per a mòbils
+# Pressupost 1: ordinador per a desenvolupador web i aplicacions per a mòbils
+
+---
+
+## **Enunciat**
+
+La configuració de l’ordinador de sobretaula d’un desenvolupador d’aplicacions web i aplicacions per a mòbils ha de complir les següents especificacions:
+- Ha de poder executar els editors (IDEs) Android Studio i IntelliJ de manera fluïda.
+- La càrrega del sistema operatiu, així com també la dels diferents programes, ha deser ràpida.
+- El pressupost que teniu disponible pels components essencials de l’ordinador (torre) és d’entre 300€ i 500€. Si, per alguna raó, sortiu fora d’aquests marges, ho haureu de justificar.
+
+Addicionalment al pressupost de la torre, afegiu els següents elements:
+- Tots aquells perifèrics que cregueu convenients, ajustant el preu al màxim.
+- El sistema operatiu que cregueu més adient.
+- Un ordinador de producció MAC (per tal de poder compilar les aplicacions iOS), ajustant el pressupost al màxim.
+
+---
 
 ## 1.Tria i pressupost dels elements
 
