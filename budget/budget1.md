@@ -4,14 +4,15 @@
 
 ## **Enunciat**
 
-La configuració de l’ordinador de sobretaula d’un membre del personal administratiu d'una institució pública ha de complir les següents especificacions:
-- Cal que pugui executar els programes ofimàtics clàssics (editor de text, full decàlcul...).
-- També executarà programes de videoconferència (Skype, Google Meet...).
-- El pressupost que teniu disponible pels components essencials de l’ordinador (torre) és d’entre 300€ i 400€. Si, per alguna raó, sortiu fora d’aquests marges, ho haureu de justificar.
+La configuració de l’ordinador de sobretaula d’un desenvolupador d’aplicacions web i aplicacionsper a mòbils ha de complir les següents especificacions:
+- Ha de poder executar els editors (IDEs) Android Studio i IntelliJ de manera fluïda.
+- La càrrega del sistema operatiu, així com també la dels diferents programes, ha deser ràpida.
+- El pressupost que teniu disponible pels components essencials de l’ordinador (torre) és d’entre 300€ i 500€. Si, per alguna raó, sortiu fora d’aquests marges, ho haureu de justificar.
 
 Addicionalment al pressupost de la torre, afegiu els següents elements:
 - Tots aquells perifèrics que cregueu convenients, ajustant el preu al màxim.
 - El sistema operatiu que cregueu més adient.
+- Un ordinador de producció MAC (per tal de poder compilar les aplicacions iOS), ajustant el pressupost al màxim
 
 ---
 
