@@ -1,5 +1,20 @@
 # Pressupost 4 - Compositor i productor
 
+---
+
+## **Enunciat**
+
+La configuració de l’ordinador de sobretaula d’un compositor i productor de música electrònica ha de complir les següents especificacions:
+- Ha de poder executar programes d’edició de música com Ableton Live, FL Studio iCubase.
+- S’hi ha de poder connectar un teclat sintetitzador com, per exemple, el Yamaha PSR-S970 (no s’ha d’incloure en el pressupost).
+- El pressupost que teniu disponible pels components essencials de l’ordinador (torre) és d’entre 500€ i 900€. Si, per alguna raó, sortiu fora d’aquests marges, ho haureu de justificar.
+
+Addicionalment al pressupost de la torre, afegiu els següents elements:
+- Tots aquells perifèrics que cregueu convenients, ajustant el preu al màxim (tingueu en compte que es desitja una bona qualitat de so).
+- El sistema operatiu que cregueu més adient.
+
+---
+
 ## 1. Components
 
 </br>
