@@ -6,6 +6,24 @@
   }
 </style>
 
+---
+
+## **Enunciat**
+
+La configuració de l’ordinador de sobretaula d’un *gamer*:
+- Ha de permetre jugar a jocs d’alt rendiment del tipus:
+  - Resident Evil 3
+  - Call of Duty: Warzone
+  - Assassin’s Creed Valhalla
+  - Shadow of the Tomb Raider
+- El pressupost que teniu disponible pels components essencials de l’ordinador (torre) és d’entre 1000€ i 1500€. Si, per alguna raó, sortiu fora d’aquests marges, ho haureu de justificar.
+
+Addicionalment al pressupost de la torre, afegiu els següents elements:
+- Tots aquells perifèrics que cregueu convenients, ajustant el preu al màxim (tingueu en compte que és un usuari *gamer*,no *streamer*, per tant, no afegiu cap perifèric que no sigui necessari).
+- El sistema operatiu que cregueu més adient.
+
+---
+
 ## **Configuració de l'ordinador**
 
 | Imatge |  | Nom | Preu | | Característiques | | Motiu elecció
