@@ -23,6 +23,22 @@
     }
 </style>
 
+---
+
+## **Enunciat**
+
+La configuració de l’ordinador de sobretaula d’un membre del personal administratiu d'una institució pública ha de complir les següents especificacions:
+- Cal que pugui executar els programes ofimàtics clàssics (editor de text, full decàlcul...).
+- També executarà programes de videoconferència (Skype, Google Meet...).
+- El pressupost que teniu disponible pels components essencials de l’ordinador (torre) és d’entre 300€ i 400€. Si, per alguna raó, sortiu fora d’aquests marges, ho haureu de justificar.
+
+Addicionalment al pressupost de la torre, afegiu els següents elements:
+- Tots aquells perifèrics que cregueu convenients, ajustant el preu al màxim.
+- El sistema operatiu que cregueu més adient.
+
+---
+
+
 <h2 style="font-style: italic; color: #5AE398;"> 1. <u>Elección y presupuesto de los elementos</u></h2>
 
 
