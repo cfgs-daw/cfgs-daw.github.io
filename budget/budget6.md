@@ -2,6 +2,24 @@
 
 [<img src="https://reskytnew.s3.amazonaws.com/3939/institut-caparrella-logoweb-180725-med-200325152134.png"/>](http://iescaparrella.cat/)
 
+---
+
+## **Enunciat**
+
+La configuració de l’ordinador de sobretaula d’un desenvolupador de videojocs ha de complir les següents especificacions:
+- Ha de poder executar els motors Unreal Engine (per a jocs de PC i consoles) i Unity (per a jocs de mòbil).
+- També necessita executar els programes de modelat 3DS Max i Blender.
+- La càrrega del sistema operatiu, així com també la dels diferents programes, ha deser ràpida.
+- Cal que tingui un disc dur d’alta capacitat d’emmagatzemament.
+- Cal que tingui dues pantalles per agilitzar i facilitar la programació dels videojocs.
+- El pressupost que teniu disponible pels components essencials de l’ordinador (torre) és d’entre 1500€ i 1800€. Si, per alguna raó, sortiu fora d’aquests marges, ho haureu de justificar.
+
+Addicionalment al pressupost de la torre, afegiu els següents elements:
+- Tots aquells perifèrics que cregueu convenients, ajustant el preu al màxim.
+- El sistema operatiu que cregueu més adient.
+
+---
+
 El següent pressupost correspon a un ordinador amb les exigències que té un desenvolupador de videojocs:
 
 ## Pressupost dels elements
